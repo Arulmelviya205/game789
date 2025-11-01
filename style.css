@@ -97,7 +97,7 @@ body{
     position: absolute;
     z-index: 3;
     margin-left: 36vw;
-    margin-top: -6vw;
+    margin-top: -5.3vw;
     border: 1px solid;
     border-radius: 1vw;
 }
@@ -676,13 +676,13 @@ body{
    z-index: 3;
    width: 3vw;
    margin-top: -4vw;
-   margin-left: 4vw;
+   margin-left: 3vw;
 }
   .uu30{
    position: absolute;
    z-index: 3;
    margin-top: -3vw;
-   margin-left: 5vw;
+   margin-left: 3vw;
 }
   .pa1{
     position: relative;
