@@ -262,7 +262,7 @@ body{
 .jum{
     position: absolute;
     z-index: 3;
-    margin-top: -39vw;
+    margin-top: -37vw;
     margin-left: 16vw;
     border: 1px solid black;
     border-radius: 1vw;
@@ -270,21 +270,21 @@ body{
 .um{
     position: absolute;
     z-index: 3;
-    margin-top: -38vw;
+    margin-top: -36vw;
     margin-left: 24vw;
     font-size: 2vw;
 }
 .te{
     position: absolute;
     z-index: 3;
-    margin-top: -35vw;
+    margin-top: -33vw;
     margin-left: 24vw;
     font-size: 1vw;
 }
 .sto{
     position: absolute;
     z-index: 3;
-    margin-top: -30vw;
+    margin-top: -28vw;
     margin-left: 20vw;
     font-size: 20px;
 }
@@ -299,13 +299,13 @@ body{
 .apple{
     position: absolute;
     z-index: 3;
-    margin-top: -20vw;
+    margin-top: -18vw;
     margin-left: 18vw;
 }
 .google{
     position: absolute;
     z-index: 3;
-    margin-top: -20vw;
+    margin-top: -18vw;
     margin-left: 32vw;
 }
 .at{
