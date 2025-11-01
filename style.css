@@ -292,7 +292,7 @@ body{
     position: absolute;
     z-index: 3;
     margin-top: -37vw;
-    margin-left: 50vw;
+    margin-left: 48vw;
     border: 1px solid;
     border-radius: 3vw;
 }
@@ -330,7 +330,7 @@ body{
     position: absolute;
     z-index: 3;
     margin-top: -31vw;
-    margin-left: 38vw;
+    margin-left: 36vw;
     border: 1px solid;
     border-radius: 1vw;
 }
@@ -338,21 +338,21 @@ body{
     position: absolute;
     z-index: 3;
     margin-top: -30vw;
-    margin-left: 47vw;
+    margin-left: 44vw;
     font-size: 2vw;
 }
 .ca{
     position: absolute;
     z-index: 3;
     margin-top: -27vw;
-    margin-left: 47vw;
+    margin-left: 44vw;
     font-size: 1vw;
 }
 .place{
     position: absolute;
     z-index: 3;
     margin-top: -22vw;
-    margin-left: 40vw;
+    margin-left: 39vw;
     font-size: 20px;
 }
 .ed{
@@ -361,19 +361,19 @@ body{
     border: 1px solid;
     border-radius: 2vw;
     margin-top: -33vw;
-    margin-left: 70vw;
+    margin-left: 68vw;
 }
 .app{
     position: absolute;
     z-index: 3;
     margin-top: -10vw;
-    margin-left: 40vw;
+    margin-left: 38vw;
 }
 .goo{
     position: absolute;
     z-index: 2;
     margin-top: -10vw;
-    margin-left: 55vw;
+    margin-left: 53vw;
 }
 .del{
     position: relative;
