@@ -3438,7 +3438,7 @@ body{
 .hh1{
     position: absolute;
     z-index: 4;
-    margin-top: -40vw;
+    margin-top: -37vw;
     margin-left: 60vw;
     color:black;
 }
@@ -3454,7 +3454,7 @@ body{
     position: absolute;
     z-index: 3;
    margin-left: 56vw;
-   margin-top: -15vw;
+   margin-top: -12vw;
    font-size: 1vw;
    color: white;
 }
@@ -3638,7 +3638,7 @@ body{
 }
     .emailbox2{
     position: absolute;
-    margin-top: -56vh;
+    margin-top: -53vh;
     margin-left:74vh;
 }
     .submit2{
