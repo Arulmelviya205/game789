@@ -169,17 +169,18 @@
               <h1 class="lap1">Get in Touch</h1>
               <p class="lap2">I'm a paragraph. Click here to add your own<br> 
                 text and edit me.</p>
-            <form id="userForm">
+            <form id="myForm">
   
             <label class="fna">name:</label>
-            <input type="text" class="fna1" requried><br><br>
+            <input type="text" class="fna1" id="name" requried><br><br>
            <label class="ema">email:</label>
-            <input type="email" class="ema1" required><br><br>
+            <input type="email" class="ema1"id="email" required><br><br>
             <label class="phone">phone number:</label>
-            <input type="text"  class="pho" required><br><br>
+            <input type="text"  class="pho" id="phone" required><br><br>
             <label class="pass">password:</label>
-            <input type="password" class="pass1" required><br><br>
+            <input type="password" class="pass1" id="password" required><br><br>
            <button type="submit" class="submit5">Submit</button>
+           <div id="output"></div>
  
 </form>
 
@@ -245,32 +246,29 @@ function submitEmail() {
     }
        
 
-     const form = document.getElementById("userForm");
+    const form = document.getElementById("myForm");
+    const output = document.getElementById("output");
 
-    form.addEventListener("submit", function(e) {
-      e.preventDefault();
+    form.addEventListener("submit", function(e){
+    e.preventDefault(); // page reload prevent
+
+      // Form fields
       const name = document.getElementById("name").value;
       const email = document.getElementById("email").value;
       const phone = document.getElementById("phone").value;
-      const password=document.getElementById("password").value;
-      const userData = { name, email, phone,password };
+      const password = document.getElementById("password").value;
+
+      // Save in localStorage
+      const userData = { name, email, phone, password };
       localStorage.setItem("userData", JSON.stringify(userData));
-      alert("Form data saved successfully!");
-      form.reset();
+      alert("Data Saved!");
+
+      // Show saved data
+      showData();
+      form.reset(); // clear form
     });
-       window.onload = () => {
-      const savedData = localStorage.getItem("userData");
-      if (savedData) {
-        const { name, email, phone,password } = JSON.parse(savedData);
-        console.log("Saved Data:");
-        console.log("Name:",name);
-        console.log("Email:",email);
-        console.log("Phone:",phone);
-        console.log("password:",password);
-      }
-    };
 
-
+    
 
 
     const Games = document.getElementById("menu ");
