@@ -1976,7 +1976,8 @@ body{
     position: relative;
     left:40vw;
     top: 3vw;
-    font-size: 20px;
+    font-size: 25px;
+     font-family: 'Agbalumo', sans-serif;
     color: black;
     justify-content: space-evenly;
     text-decoration:none;
@@ -1989,13 +1990,16 @@ body{
      position: relative;
     width: 5vw;
     left: 49vw;
+    font-size: 18px;
+     font-family: 'Agbalumo', sans-serif;
     top: 3vw;
 }
 .careersg{
     position: relative;
     left: 59vw;
     top:3vw;
-    font-size: 20px;
+     font-family: 'Agbalumo', sans-serif;
+    font-size: 25px;
     justify-content: space-evenly;
     color: black;
 }
@@ -2007,7 +2011,8 @@ body{
     position: relative;
     left: 65vw;
     top: 3vw;
-    font-size: 20px;
+     font-family: 'Agbalumo', sans-serif;
+    font-size: 25px;
     color: black;
 }
 .aboutg:hover{
@@ -2018,7 +2023,8 @@ body{
     position: relative;
     left: 70vw;
     top: 3vw;
-    font-size: 20px;
+     font-family: 'Agbalumo', sans-serif;
+    font-size: 25px;
     color: black;
 }
 .contactg:hover{
@@ -2029,7 +2035,7 @@ body{
     position: relative;
     border: 1px solid black;
     border-radius: 1vw;
-    width: 18vw;
+    width: 15vw;
     height: 5vw;
     background-color:antiquewhite;
     margin-top: 1vw;
@@ -2038,15 +2044,16 @@ body{
     .img1{
     position: absolute;
     z-index: 3;
-    width: 3vw;
+    width: 2.5vw;
     margin-top: -4vw;
-    margin-left: 4vw;
+    margin-left: 3vw;
 }
     .mes1{
     position: absolute;
      z-index: 3;
-    margin-top: -3vw;
-    margin-left: 8vw;
+    margin-top: -3.5vw;
+     font-family: 'Agbalumo', sans-serif;
+    margin-left: 6vw;
 }
     .img4{
      position: relative;
@@ -2060,14 +2067,16 @@ body{
      z-index: 3;
       margin-top: -35vw;
     margin-left: 15vw;
-    color: white;
+    font-family: 'Agbalumo', sans-serif;
+    color:black;
 }
     .ff2{
     position: absolute;
     z-index: 3;
+     font-family: 'Agbalumo', sans-serif;
     margin-top: -30vw;
     margin-left: 15vw;
-    color: white;
+    color:black;
     font-size: 3vw;
 }
     .gg1{
@@ -2075,8 +2084,9 @@ body{
     z-index: 3;
     margin-top: -22vw;
     margin-left: 15vw;
+     font-family: 'Agbalumo', sans-serif;
     font-size: 2vw;
-    color: white;
+    color:black;
 }
     .gg2{
     position: absolute;
@@ -2092,6 +2102,7 @@ body{
      position: absolute;
      z-index: 4;
      margin-left: 39vw;
+      font-family: 'Agbalumo', sans-serif;
      margin-top: -6vw;
     color: white;
 }
@@ -2122,6 +2133,7 @@ body{
     z-index: 6;
     margin-left: 18vw;
     margin-top: 9vw;
+  font-family: 'Agbalumo', sans-serif;
     color: black;
 }
     .fan2{
@@ -2130,12 +2142,14 @@ body{
     margin-left: 18vw;
     margin-top: 12vw;
     color: grey;
+      font-family: 'Agbalumo', sans-serif;
 }
     .fan3{
     position: absolute;
     z-index: 6;
     margin-top: 17vw;
     margin-left: 18vw;
+      font-family: 'Agbalumo', sans-serif;
     font-size: 2vh;
 }
     .app1{
@@ -2146,7 +2160,8 @@ body{
     border: 1px solid black;
     border-radius: 3vw;
     width: 10vw;
-    font-size: 2vw;
+    font-size: 1.5vw;
+    font-family: 'Agbalumo', sans-serif;
     text-align: center;
     background-color: darkslateblue;
     color: white;
@@ -2175,6 +2190,7 @@ body{
     .gg5{
     position: absolute;
     z-index: 6;
+      font-family: 'Agbalumo', sans-serif;
     margin-left: 54vw;
     margin-top: 9vw;
     color: black;
@@ -2183,6 +2199,7 @@ body{
     position: absolute;
     z-index: 6;
     margin-left: 54vw;
+      font-family: 'Agbalumo', sans-serif;
     margin-top: 12vw;
     color: grey;
 }
@@ -2191,6 +2208,7 @@ body{
     z-index: 6;
     margin-left: 54vw;
     margin-top: 17vw;
+      font-family: 'Agbalumo', sans-serif;
     font-size: 2vh;
 }
     .app2{
@@ -2202,7 +2220,8 @@ body{
     width: 10vw;
     text-align: center;
     border-radius: 2vw;
-    font-size: 2vw;
+    font-size: 1.5vw;
+      font-family: 'Agbalumo', sans-serif;
     color: white;
     background-color: darkslateblue;                
 }
@@ -2232,6 +2251,7 @@ body{
     position: absolute;
     z-index: 6;
     margin-top: 51vw;
+      font-family: 'Agbalumo', sans-serif;
     margin-left: 18vw;
     color: black;
 }
@@ -2240,6 +2260,7 @@ body{
     z-index: 6;
     margin-top: 55vw;
     margin-left: 18vw;
+      font-family: 'Agbalumo', sans-serif;
     color: grey;
 }
     .aa4{
@@ -2248,6 +2269,7 @@ body{
     margin-top: 58vw;
     margin-left: 18vw;
     font-size: 2vh;
+      font-family: 'Agbalumo', sans-serif;
 }
     .app3{
     position: absolute;
@@ -2259,7 +2281,8 @@ body{
     border-radius: 2vw;
     text-align: center;
     color: white;
-    font-size: 2vw;
+      font-family: 'Agbalumo', sans-serif;
+    font-size: 1.5vw;
     background-color: darkslateblue;
 }
     .app3:hover{
@@ -2288,6 +2311,7 @@ body{
     position: absolute;
     z-index: 6;
     margin-top: 51vw;
+    font-family: 'Agbalumo', sans-serif;
     margin-left: 56vw;
     color: black;
 }
@@ -2295,6 +2319,7 @@ body{
     position: absolute;
     z-index: 6;
     margin-top: 55vw;
+    font-family: 'Agbalumo', sans-serif;
     margin-left: 56vw;
     color: grey;
 }
@@ -2304,6 +2329,7 @@ body{
     margin-top: 58vw;
     margin-left: 56vw;
     font-size: 2vh;
+      font-family: 'Agbalumo', sans-serif;
 }
     .app4{
     position: absolute;
@@ -2314,7 +2340,8 @@ body{
     width: 10vw;
     border-radius: 2vw;
     text-align: center;
-    font-size: 2vw;
+      font-family: 'Agbalumo', sans-serif;
+    font-size: 1.5vw;
     background-color: darkslateblue;
     color: white;
 }
@@ -2328,6 +2355,7 @@ body{
     margin-top: 82vw;
     text-align: center;
     color: darkslateblue;
+      font-family: 'Agbalumo', sans-serif;
     font-size: 4vw;
 }
     .now{
@@ -2338,6 +2366,7 @@ body{
     width: 20vw;
     height:5vw;
     margin-left: 37vw;
+      font-family: 'Agbalumo', sans-serif;
     margin-top: 3vw;
     background-color: blueviolet;
 }
@@ -2350,6 +2379,7 @@ body{
     margin-left: 42vw;
     margin-top: -4vw;
     color: white;
+      font-family: 'Agbalumo', sans-serif;
     font-size: 2vw;
 }
     .app5:hover{
@@ -2360,7 +2390,7 @@ body{
     position: relative;
     border: 1px solid black;
     border-radius: 1vw;
-    width: 17vw;
+    width: 15vw;
     height: 10vh;
     background-color:antiquewhite;
     margin-top: 7vw;
@@ -2369,53 +2399,62 @@ body{
     .img10{
     position: absolute;
     z-index: 3;
-    width: 3vw;
+    width: 2.5vw;
     margin-top: -4vw;
     margin-left: 4vw;
 }
     .mes2{
     position: absolute;
     z-index: 3;
-    margin-top: -3vw;
-    margin-left: 8vw;
+    margin-top: -3.5vw;
+      font-family: 'Agbalumo', sans-serif;
+    margin-left: 7vw;
 }
     .pa{
     position: relative;
     margin-top: 4vw;
     margin-left: 5vw;
+      font-family: 'Agbalumo', sans-serif;
     font-size: 2vw;
 }
     .tect{
     margin-top: -1vw;
     margin-left: 5vw;
+      font-family: 'Agbalumo', sans-serif;
     font-size: 2vw;
 }
     .info{
     margin-left: 4vw;
     margin-top: 2vw;
     color: black;
+      font-family: 'Agbalumo', sans-serif;
 }
     .tel{
     margin-left: 4vw;
     margin-top: 1vw;
     color: black;
+      font-family: 'Agbalumo', sans-serif;
 }
     .st{
     margin-left: 4vw;
     color: black;
+      font-family: 'Agbalumo', sans-serif;
 }
     .fran{
     margin-left: 3vw;
     color: black;
+      font-family: 'Agbalumo', sans-serif;
 }
     .subs{
     font-size: 2vw;
     margin-left: 24vw;
+      font-family: 'Agbalumo', sans-serif;
     margin-top: -12vw;
 }
     .email{
     position: absolute;
     margin-top: -40vh;
+      font-family: 'Agbalumo', sans-serif;
     margin-left: 15vh;
 }
     .emailbox{
@@ -2427,6 +2466,7 @@ body{
     position: absolute;
     margin-top: -40vh;
     margin-left:80vh;
+      font-family: 'Agbalumo', sans-serif;
     border: 1px solid;
     width: 8vw;
     text-align: center;
@@ -2437,14 +2477,15 @@ body{
     .menu{
     position: relative;
     font-size: 2vw;
-    margin-left: 60vw;
+    margin-left: 59vw;
+      font-family: 'Agbalumo', sans-serif;
     margin-top: -5vw;
     color: grey;
 }
     .andk{
     position: relative;
     margin-left: 60vw;
-    top: 2vw;
+    font-family: 'Agbalumo', sans-serif;
     color: black;
     font-size: 1vw;
 }
@@ -2455,8 +2496,8 @@ body{
     .cark{
     position: relative; 
     margin-left: 60vw;
-    top: 2vw;
     font-size: 1vw;
+    font-family: 'Agbalumo', sans-serif;
     color: black;
 }
     .cark:hover{
@@ -2466,7 +2507,7 @@ body{
     .abo{
     position: relative;
     margin-left: 60vw;
-    top: 2vw;
+    font-family: 'Agbalumo', sans-serif;
     font-size: 1vw;
     color: black;
 }
@@ -2477,7 +2518,7 @@ body{
     .tac{
     position: relative;
     margin-left: 60vw;
-    top: 3vw;
+  font-family: 'Agbalumo', sans-serif;
     font-size: 1vw;
     color: black;
 }
@@ -2487,8 +2528,9 @@ body{
 }
     .acess{
     position: relative;
-    top: 5vw;
+    top: 1.5vw;
     right: 4vw;
+    font-family: 'Agbalumo', sans-serif;
     color:black;
 }
     .acess:hover{
@@ -2498,7 +2540,8 @@ body{
     .term{
     position: relative;
     right: 10vw;
-    top: 7vw;
+    top: 3vw;
+      font-family: 'Agbalumo', sans-serif;
     color: black;
 }
     .term:hover{
@@ -2507,8 +2550,9 @@ body{
 }
     .policy{
     position: relative;
-    top: 9vw;
-    right: 17vw;
+    top: 4.5vw;
+      font-family: 'Agbalumo', sans-serif;
+    right: 18vw;
     color: black;
 }
     .policy:hover{
@@ -2517,8 +2561,9 @@ body{
 }
     .ship{
     position: relative;
-    top: 12vw;
-    right: 23vw;
+    top: 6vw;
+    right: 24vw;
+      font-family: 'Agbalumo', sans-serif;
     color: black;
 }
     .ship:hover{
@@ -2527,8 +2572,9 @@ body{
 }
     .refund{
     position: relative;
-    top: 15vw;
-    right: 29vw;
+    top: 7.5vw;
+    right: 30vw;
+      font-family: 'Agbalumo', sans-serif;
     color: black;
 }
     .refund:hover{
@@ -2540,10 +2586,12 @@ body{
     margin-top: -9vw;
     font-size: 2vw;
     color: grey;
+      font-family: 'Agbalumo', sans-serif;
 }
     .discord{
-    margin-left: 74vw;
+    margin-left: 75vw;
     margin-top: 2vw;
+      font-family: 'Agbalumo', sans-serif;
     color: black;
 }
     .discord:hover{
@@ -2552,7 +2600,8 @@ body{
 }
     .tch{
     position: relative;
-    top: 2vw;
+    top: 1.5vw;
+      font-family: 'Agbalumo', sans-serif;
     right: 3vw;
     color:black;
 }
@@ -2562,8 +2611,9 @@ body{
 }
     .face{
     position: relative;
-    top: 4vw;
+    top: 3vw;
     right: 6vw;
+      font-family: 'Agbalumo', sans-serif;
     color: black;
 }
     .face:hover{
@@ -2572,7 +2622,8 @@ body{
 }
     .you{
     position: relative;
-    top: 6vw;
+    top: 4.5vw;
+      font-family: 'Agbalumo', sans-serif;
     right: 10vw;
     color: black;
 }
@@ -2582,8 +2633,9 @@ body{
 }
     .twit{
     position: relative;
-    top: 8vw;
-    right: 13vw;
+    top: 6vw;
+      font-family: 'Agbalumo', sans-serif;
+    right: 13.6vw;
     color: black;
 }
     .twit:hover{
@@ -2592,8 +2644,9 @@ body{
 }
     .link{
     position: relative;
-    top: 10vw;
-    right: 16vw;
+    top: 7.5vw;
+      font-family: 'Agbalumo', sans-serif;
+    right: 17vw;
     color: black;
 }
     .link:hover{
@@ -2611,11 +2664,13 @@ body{
     .pow{
     margin-top: 3vw;
     margin-left: 2vw;
+    font-family: 'Agbalumo', sans-serif;
 }
     .wix{
     position: relative;
     margin-left: 23vw;
     top: -2vw;
+    font-family: 'Agbalumo', sans-serif;
 }
 /*career*/
 @media screen and (max-width:600px){
