@@ -702,29 +702,29 @@ body{
     background-color: darkblue;
     color: white;
    }
-   .uu10{
+   .uu10k{
     position: relative;
     border: 1px solid black;
-    border-radius: 3vw;
-    width: 10vw;
-    height: 8vh;
+    border-radius: 1vw;
+    width: 17vw;
+    height: 5vw;
     background-color:antiquewhite;
-    margin-top: 10vw;
+    margin-top: 30vw;
     margin-left: 2vw;
 }
-  .uu20{
+  .uu20k{
    position: absolute;
    z-index: 3;
-   width: 2,5vw;
+   width: 3vw;
    margin-top: -4vw;
-   margin-left: 5vw;
+   margin-left: 4vw;
 }
-  .uu30{
+  .uu30k{
    position: absolute;
    z-index: 3;
-   margin-top: -3vw;
+   margin-top: -3.5vw;
    font-family: 'Agbalumo', sans-serif;
-   margin-left: 2vw;
+   margin-left: 8vw;
 }
   .pa1{
     position: relative;
@@ -765,23 +765,24 @@ body{
     position: relative;
      font-size: 2vw;
      margin-left: 24vw;
-     top: 5vw;
      font-family: 'Agbalumo', sans-serif;
 }
    .email1{
     position: absolute;
-    margin-top: 9.5vw;
     margin-left: 28vw;
+    margin-top: 3vw;
     font-family: 'Agbalumo', sans-serif;
 }
     .emailbox1{
      position: absolute;
-     margin-top: 7vw;
+    width: 10vw;
+     height: 4vh;
+     border-radius: 0.5vw;
      margin-left:33vw;
 }
     .submit1{
     position: absolute;
-    margin-top: 10vw;
+    margin-top: 4vw;
     margin-left:35vw;
     border: 1px solid;
     width: 8vw;
@@ -796,7 +797,7 @@ body{
     font-size: 2vw;
     margin-left: 60vw;
     font-family: 'Agbalumo', sans-serif;
-     margin-top: -4vw;
+     margin-top: -7vw;
      color: grey;
 }
     .and10{
@@ -973,11 +974,12 @@ body{
     .pe2{
     margin-top: 17vw;
     margin-left: 2vw;
-    
+    width: 10vw;
 }
     .go2{
     margin-left: 3vw;
     margin-top: 17vw;
+    width: 10vw;
 }
     .pow2{
     margin-top: 3vw;
@@ -2453,20 +2455,23 @@ body{
 }
     .email{
     position: absolute;
-    margin-top: -40vh;
-      font-family: 'Agbalumo', sans-serif;
+    margin-top: -45vh;
+    font-family: 'Agbalumo', sans-serif;
     margin-left: 15vh;
 }
     .emailbox{
     position: absolute;
-    margin-top: -46vh;
-    margin-left:80vh;
+    margin-top: -51vh;
+    width: 10vw;
+    height: 4vh;
+    border-radius: 0.5vw;
+    margin-left:75vh;
 }
     .submit{
     position: absolute;
-    margin-top: -40vh;
+    margin-top: -43vh;
     margin-left:80vh;
-      font-family: 'Agbalumo', sans-serif;
+    font-family: 'Agbalumo', sans-serif;
     border: 1px solid;
     width: 8vw;
     text-align: center;
@@ -2656,10 +2661,12 @@ body{
     .pe{
     margin-top: 17vw;
     margin-left: 2vw;
+    width: 10vw;
 }
     .go{
     margin-left: 3vw;
     margin-top: 17vw;
+    width: 10vw;
 }
     .pow{
     margin-top: 3vw;
@@ -3512,6 +3519,7 @@ body{
      margin-top: 2vw;
      border: 1px solid black;
      width: 15vw;
+     border-radius: 0.5vw;
      height: 18vh;
      text-align: center;
      color: darkslateblue;
@@ -3532,6 +3540,7 @@ body{
     margin-left: 33vw;
     border: 1px solid black;
     width: 14vw;
+    border-radius: 0.5vw;
     height: 18vh;
       font-family: 'Agbalumo', sans-serif;
     text-align: center;
@@ -3549,13 +3558,14 @@ body{
     position: absolute;
     z-index: 3;
     margin-left: 20vw;
-    margin-top: 21vw;
+    margin-top: 20vw;
     border: 1px solid black;
+    border-radius: 0.5vw;
     width: 22vw;
     height: 7vw;
     text-align: center;
     color: darkslateblue;
-      font-family: 'Agbalumo', sans-serif;
+    font-family: 'Agbalumo', sans-serif;
 }
 .rate{
     position: absolute;
@@ -3807,18 +3817,21 @@ body{
     .emailbox2{
     position: absolute;
     margin-top: -53vh;
+    width: 10vw;
+    height: 4vh;
+    border-radius: 0.5vw;
     margin-left:74vh;
 }
     .submit2{
     position: absolute;
-    margin-top: -49vh;
+    margin-top: -47vh;
     margin-left:80vh;
     border: 1px solid;
     width: 8vw;
     text-align: center;
     border-radius: 2vw;
     background-color: blueviolet;
-      font-family: 'Agbalumo', sans-serif;
+    font-family: 'Agbalumo', sans-serif;
     color: white;
 }
     .menu2{
@@ -3910,7 +3923,7 @@ body{
     position: relative;
     top: 6vw;
     right: 24vw;
-      font-family: 'Agbalumo', sans-serif;
+    font-family: 'Agbalumo', sans-serif;
     color: black;
 }
     .ship2:hover{
@@ -4003,10 +4016,12 @@ body{
     .pe2{
     margin-top: 17vw;
     margin-left: 2vw;
+    width: 10vw;
 }
     .go2{
     margin-left: 3vw;
     margin-top: 17vw;
+    width: 10vw;
 }
     .pow2{
     margin-top: 3vw;
@@ -4929,6 +4944,9 @@ body{
     .mailbox12{
      position: absolute;
      margin-top: -1vw;
+     width: 10vw;
+     height: 4vh;
+     border-radius: 0.5vw;
      margin-left:33vw;
 }
     .mit12{
@@ -5058,7 +5076,8 @@ body{
     color: grey;
 }
     .discord12{
-    margin-left: 74vw;
+     position: relative;
+    margin-left: 75vw;
     margin-top: 2vw;
     color: black;
     font-family: 'Agbalumo', sans-serif;
@@ -5069,7 +5088,7 @@ body{
 }
     .tch12{
     position: relative;
-    top: 1.3vw;
+    top: 1vw;
     right: 3vw;
     font-family: 'Agbalumo', sans-serif;
     color:black;
@@ -5125,10 +5144,12 @@ body{
 .pe12{
     margin-top: 17vw;
     margin-left: 2vw;
+    width: 10vw;
 }
     .go12{
     margin-left: 3vw;
     margin-top: 17vw;
+    width: 10vw;
 }
     .pow12{
     margin-top: 3vw;
@@ -5597,7 +5618,8 @@ body{
     position: relative;
     left:40vw;
     top: 4vw;
-    font-size: 20px;
+    font-size: 25px;
+      font-family: 'Agbalumo', sans-serif;
     color: black;
     justify-content: space-evenly;
     text-decoration:none;
@@ -5610,12 +5632,16 @@ body{
     position: relative;
     left: 45vw;
     top: 4vw;
+    width: 6vw;
+    font-size: 1.2vw;
+    font-family: 'Agbalumo', sans-serif;
 }
 .careersl{
     position: relative;
     left: 53vw;
     top:4vw;
-    font-size: 20px;
+    font-family: 'Agbalumo', sans-serif;
+    font-size: 25px;
     justify-content: space-evenly;
     color: black;
 }
@@ -5627,7 +5653,8 @@ body{
     position: relative;
     left: 60vw;
     top: 4vw;
-    font-size: 20px;
+    font-size: 25px;
+      font-family: 'Agbalumo', sans-serif;
     justify-content: space-evenly;
     color: black;
 }
@@ -5637,10 +5664,11 @@ body{
 }
 .contactl{
     position: relative;
-    left: 70vw;
+    left: 68vw;
     top: 4vw;
+      font-family: 'Agbalumo', sans-serif;
     justify-content: space-evenly;
-    font-size: 20px;
+    font-size: 25px;
     color: black;
 }
 .contactl:hover{
@@ -5650,9 +5678,9 @@ body{
    .kk{
     position: relative;
     border: 1px solid black;
-    border-radius: 1vw;
-    width: 19vw;
-    height: 6vw;
+    border-radius: 0.8vw;
+    width: 17vw;
+    height: 5vw;
     background-color:antiquewhite;
     margin-top: 1vw;
     margin-left: 5vw;
@@ -5660,13 +5688,15 @@ body{
     .img01{
     position: absolute;
     z-index: 3;
-    margin-top: -5vw;
-    margin-left: 6vw;
+    width: 3vw;
+    margin-top: -4vw;
+    margin-left: 7vw;
 }
     .mes01{
     position: absolute;
     z-index: 3;
-    margin-top: -4vw;
+    margin-top: -3.5vw;
+      font-family: 'Agbalumo', sans-serif;
     margin-left: 11vw;
 }
     .ga01{
@@ -5682,9 +5712,10 @@ body{
     .car10{
     position: absolute;
     z-index: 3;
-    margin-top: -30vw;
+    margin-top: -28vw;
     margin-left: 10vw;
-    color: white;
+    font-family: 'Agbalumo', sans-serif;
+    color:black;
 }
     .car20{
     position: absolute;
@@ -5692,7 +5723,8 @@ body{
     margin-top: -25vw;
     margin-left: 10vw;
     font-size: 6vw;
-    color: white;
+    color: black;
+      font-family: 'Agbalumo', sans-serif;
 }
     .car40{
     position: absolute;
@@ -5700,7 +5732,8 @@ body{
     margin-top: -16vw;
     margin-left: 10vw;
     font-size: 2vw;
-    color: white;
+    color: black;
+      font-family: 'Agbalumo', sans-serif;
 }
     .car50{
     position: absolute;
@@ -5708,7 +5741,8 @@ body{
     margin-top: -10vw;
     margin-left: 10vw;
     font-size: 2vw;
-    color: white;
+    color: black;
+    font-family: 'Agbalumo', sans-serif;
 }
     .one0{
     position: absolute;
@@ -5726,43 +5760,14 @@ body{
     margin-left: 4vw;
     margin-top: 4vw;
 }
-    .car10{
-    position: absolute;
-    z-index: 3;
-    margin-top: -30vw;
-    margin-left: 10vw;
-    color: white;
-}
-    .car20{
-    position: absolute;
-    z-index: 3;
-    margin-top: -25vw;
-    margin-left: 10vw;
-    font-size: 6vw;
-    color: white;
-}
-    .car40{
-    position: absolute;
-    z-index: 3;
-    margin-top: -16vw;
-    margin-left: 10vw;
-    font-size: 2vw;
-    color: white;
-}
-    .car50{
-    position: absolute;
-    z-index: 3;
-    margin-top: -10vw;
-    margin-left: 10vw;
-    font-size: 2vw;
-    color: white;
-}
+    
     .ga10{
     position: relative;
     margin-top: 4vw;
     margin-left: 20vw;
     font-size: 3vw;
     color: black;
+     font-family: 'Agbalumo', sans-serif;
 }
     .ga20{
     position: relative;
@@ -5770,6 +5775,7 @@ body{
     margin-left: 20vw;
     font-size: 2vh;
     color:black;
+     font-family: 'Agbalumo', sans-serif;
 }
     .ga30{
     position: relative;
@@ -5777,6 +5783,7 @@ body{
     margin-left: 20vw;
     font-size: 2vh;
     color: black;
+     font-family: 'Agbalumo', sans-serif;
 }
     .ga40{
     position: relative;
@@ -5784,6 +5791,7 @@ body{
     margin-top: -32vw;
     font-size: 3vw;
     color: black;
+     font-family: 'Agbalumo', sans-serif;
 }
     .ga50{
     position: relative;
@@ -5791,6 +5799,7 @@ body{
     margin-top: 4vw;
     font-size: 2vh;
     color: black;
+     font-family: 'Agbalumo', sans-serif;
 }
     .ga60{
     position: relative;
@@ -5798,13 +5807,14 @@ body{
     margin-top: 5vw;
     font-size: 2vh;
     color: black;
+     font-family: 'Agbalumo', sans-serif;
 }
     .pos1{
     position: relative;
     border: 1px solid black;
-    border-radius: 1vw;
-    width: 21vw;
-    height: 6vw;
+    border-radius: 0.5vw;
+    width: 17vw;
+    height: 5vw;
     background-color:antiquewhite;
     margin-top: 6vw;
     margin-left: 2vw;
@@ -5812,57 +5822,70 @@ body{
    .pos2{
     position: absolute;
     z-index: 3;
-    margin-top: -5vw;
+    width: 3vw;
+    margin-top: -4vw;
     margin-left: 4vw;
 }
     .pos3{
     position: absolute;
     z-index: 3;
-    margin-top: -4vw;
-    margin-left: 10vw;
+    margin-top: -3.5vw;
+     font-family: 'Agbalumo', sans-serif;
+    margin-left: 8vw;
 }
 .ver{
     position: relative;
     margin-top: 4vw;
     margin-left: 3vw;
+     font-family: 'Agbalumo', sans-serif;
     font-size: 2vw;
 }
 .ct13{
     margin-top: -1vw;
      margin-left: 5vw;
     font-size: 2vw;
+    font-family: 'Agbalumo', sans-serif;
 }
     .fo13{
     margin-left: 4vw;
     margin-top: 2vw;
     color: black;
+     font-family: 'Agbalumo', sans-serif;
 }
     .l13{
      margin-left: 4vw;
      margin-top: 1vw;
      color: black;
+      font-family: 'Agbalumo', sans-serif;
 }
     .t13{
     margin-left: 4vw;
     color: black;
+     font-family: 'Agbalumo', sans-serif;
 }
     .ran13{
     margin-left: 3vw;
     color: black;
+     font-family: 'Agbalumo', sans-serif;
 }
 .ubs2{
      font-size: 2vw;
      margin-left: 24vw;
      margin-top: -12vw;
+      font-family: 'Agbalumo', sans-serif;
 }
    .mail13{
     position: absolute;
     margin-top: 2vw;
     margin-left: 28vw;
+     font-family: 'Agbalumo', sans-serif;
 }
     .mailbox13{
      position: absolute;
      margin-top: -1vw;
+     width: 10vw;
+     height: 4vh;
+     border-radius: 0.5vw;
      margin-left:33vw;
 }
     .mit13{
@@ -5875,6 +5898,7 @@ body{
     border-radius: 2vw;
     background-color: blueviolet;
     color: white;
+     font-family: 'Agbalumo', sans-serif;
 }
 .enu13{
     position: relative;
@@ -5882,12 +5906,14 @@ body{
     margin-left: 60vw;
      margin-top: -8vw;
      color: grey;
+      font-family: 'Agbalumo', sans-serif;
 }
     .nd13{
     position: relative;
-    margin-left: 60vw;
+    margin-left: 61vw;
     color: black;
     font-size: 1vw;
+     font-family: 'Agbalumo', sans-serif;
 }
    .nd13:hover{
     text-decoration: none;
@@ -5895,8 +5921,9 @@ body{
 }
    .ar13{
     position: relative; 
-     margin-left: 60vw;
+     margin-left: 61vw;
      font-size: 1vw;
+      font-family: 'Agbalumo', sans-serif;
     color: black; 
 }
     .ar13:hover{
@@ -5905,8 +5932,9 @@ body{
 }
     .bo13{
     position: relative;
-    margin-left: 60vw;
+    margin-left: 61vw;
     font-size: 1vw;
+     font-family: 'Agbalumo', sans-serif;
     color: black;
 }
     .bo13:hover{
@@ -5915,7 +5943,8 @@ body{
 }
     .ac13{
     position: relative;
-    margin-left: 60vw;
+    margin-left: 61vw;
+     font-family: 'Agbalumo', sans-serif;
     font-size: 1vw;
     color: black;
 }
@@ -5925,7 +5954,8 @@ body{
 }
     .cess13{
     position: relative;
-    top: 2vw;
+    top: 1.5vw;
+     font-family: 'Agbalumo', sans-serif;
     right: 4vw;
     color:black;
 }
@@ -5936,7 +5966,8 @@ body{
     .erm13{
      position: relative;
      right: 10vw;
-     top: 4vw;
+      font-family: 'Agbalumo', sans-serif;
+     top: 3vw;
      color: black;
 }
     .erm13:hover{
@@ -5945,7 +5976,8 @@ body{
 }
     .olicy13{
      position: relative;
-     top: 6vw;
+     top: 4.5vw;
+      font-family: 'Agbalumo', sans-serif;
      right: 17vw;
     color: black;
 }
@@ -5955,7 +5987,8 @@ body{
 }
     .hip13{
     position: relative;
-    top: 8vw;
+    top: 6vw;
+     font-family: 'Agbalumo', sans-serif;
     right: 23vw;
     color: black;
 }
@@ -5965,8 +5998,9 @@ body{
 }
     .efund13{
     position: relative;
-    top: 10vw;
-    right: 29vw;
+    top: 7.5vw;
+    right: 30vw;
+     font-family: 'Agbalumo', sans-serif;
     color: black;
 }
     .efund13:hover{
@@ -5978,11 +6012,13 @@ body{
     margin-top: -9vw;
     font-size: 2vw;
     color: grey;
+     font-family: 'Agbalumo', sans-serif;
 }
     .discord13{
-    margin-left: 74vw;
+    margin-left: 76vw;
     margin-top: 2vw;
     color: black;
+     font-family: 'Agbalumo', sans-serif;
 }
     .discord13:hover{
     text-decoration: none;
@@ -5990,7 +6026,8 @@ body{
 }
     .tch13{
     position: relative;
-    top: 2vw;
+    top: 1.5vw;
+     font-family: 'Agbalumo', sans-serif;
     right: 3vw;
     color:black;
 }
@@ -6000,7 +6037,8 @@ body{
 }
     .face13{
     position: relative;
-    top: 4vw;
+    top: 3vw;
+     font-family: 'Agbalumo', sans-serif;
     right: 6vw;
     color: black;
 }
@@ -6010,7 +6048,8 @@ body{
 }
     .you13{
     position: relative;
-    top: 6vw;
+    top: 4.5vw;
+     font-family: 'Agbalumo', sans-serif;
     right: 10vw;
     color: black;
 }
@@ -6020,7 +6059,8 @@ body{
 }
     .twit13{
     position: relative;
-    top: 8vw;
+    top: 6vw;
+     font-family: 'Agbalumo', sans-serif;
     right: 13vw;
     color: black;
 }
@@ -6030,8 +6070,9 @@ body{
 }
     .link13{
      position: relative;
-     top: 10vw;
+     top: 7.5vw;
      right: 16vw;
+      font-family: 'Agbalumo', sans-serif;
     color: black;
 }
     .link13:hover{
@@ -6041,19 +6082,23 @@ body{
 .pe13{
     margin-top: 17vw;
     margin-left: 2vw;
+    width: 10vw;
 }
     .go13{
     margin-left: 3vw;
     margin-top: 17vw;
+    width: 10vw;
 }
     .pow13{
     margin-top: 3vw;
     margin-left: 2vw;
+     font-family: 'Agbalumo', sans-serif;
 }
     .wix13{
     position: relative;
     margin-left: 23vw;
     top: -2vw;
+     font-family: 'Agbalumo', sans-serif;
 }
 /*apply2*/
 @media screen and (max-width:600px){
