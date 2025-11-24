@@ -230,6 +230,7 @@ body{
     position: relative;
     margin-top: 4vw;
     margin-left: 8vw;
+    
    } 
    .da{
   position: relative;
@@ -266,6 +267,7 @@ body{
     left: 5vw;
     opacity: 0.8;
     z-index: 2;
+    border-radius:5vw;
      }
 .box{
     background-color:white;
@@ -335,6 +337,7 @@ body{
     top: 7vw;
     z-index: 2;
     opacity: 0.8;
+    border-radius: 5vw;
 }
 .bo{
     background-color:white;
@@ -404,6 +407,7 @@ body{
     opacity: 0.8;
     left: 5vw;
     top: 15vw;
+    border-radius: 5vw;
 }
 .aa{
     position: absolute;
@@ -791,7 +795,7 @@ body{
     text-align: center;
     border-radius: 2vw;
     font-family: 'Agbalumo', sans-serif;
-    background-color: blueviolet;
+    background-color:green;
     color: white;
 }
    .menu1{
@@ -2478,7 +2482,7 @@ body{
     width: 8vw;
     text-align: center;
     border-radius: 2vw;
-    background-color: blueviolet;
+    background-color:green;
     color: white;
 }
     .menu{
@@ -3155,7 +3159,7 @@ body{
     width: 15vw;
     text-align: center;
     border-radius: 2vw;
-    background-color: blueviolet;
+    background-color:blueviolet;
     color: white;
 }
 .menu{
@@ -3832,7 +3836,7 @@ body{
     width: 8vw;
     text-align: center;
     border-radius: 2vw;
-    background-color: blueviolet;
+    background-color:green;
     font-family: 'Agbalumo', sans-serif;
     color: white;
 }
@@ -10523,8 +10527,9 @@ body{
     position: relative;
     left:40vw;
     top: 3vw;
-    font-size: 20px;
+    font-size: 25px;
     text-decoration: none;
+    font-family: 'Agbalumo', sans-serif;
     color: black;
     }
     .homec:hover{
@@ -10535,12 +10540,16 @@ body{
     position: relative;
     left: 48vw;
     top: 3vw;
+    width: 6vw;
+    font-size: 1.2vw;
+     font-family: 'Agbalumo', sans-serif;
 }
 .careersc{
     position: relative;
-    left: 60vw;
+    left: 56vw;
     top:3vw;
-    font-size: 20px;
+    font-size: 25px;
+     font-family: 'Agbalumo', sans-serif;
     text-decoration: none;
     color: black;
     }
@@ -10550,9 +10559,10 @@ body{
     }
 .aboutc{
     position: relative;
-    left: 68vw;
+    left: 64vw;
     top: 3vw;
-    font-size: 20px;
+    font-size: 25px;
+     font-family: 'Agbalumo', sans-serif;
     text-decoration: none;
     color: black;
 }
@@ -10562,9 +10572,10 @@ body{
 }
 .contactc{
     position: relative;
-    left: 75vw;
+    left: 70vw;
     top: 3vw;
-    font-size: 20px;
+     font-family: 'Agbalumo', sans-serif;
+    font-size: 25px;
     text-decoration: none;
     color: black;
 }
@@ -10576,23 +10587,25 @@ body{
     position: relative;
     border: 1px solid black;
     border-radius: 1vw;
-    width: 21vw;
-    height: 6vw;
+    width: 17vw;
+    height: 10vh;
     background-color:antiquewhite;
     margin-top: 1vw;
     margin-left: 2vw;
 }
-   .gam2{
+   .gam2n{
     position: absolute;
     z-index: 3;
-    margin-top: -5vw;
+    width: 2.6vw;
+    margin-top: -4vw;
     margin-left: 4vw;
 }
-    .gam3{
+    .gam3n{
     position: absolute;
     z-index: 3;
-    margin-top: -4vw;
-    margin-left: 10vw;
+   font-family: 'Agbalumo', sans-serif;
+    margin-top: -3.5vw;
+    margin-left: 8vw;
     }
     .xx{
     position: relative;
@@ -10607,21 +10620,24 @@ body{
 .term13n{
     position: absolute;
     z-index: 3;
-    margin-top: -11vw;
+    font-family: 'Agbalumo', sans-serif;
+    margin-top: -12vw;
     margin-left: 5vw;
     font-size: 4vw;
-    color: white;
+    color: black;
 }
 .legal1{
     position: relative;
     margin-left: 35vw;
     margin-top: 2vw;
+    font-family: 'Agbalumo', sans-serif;
     font-size: 3vw;
     color: black;
 }
 .arti1{
     position: relative;
     margin-left: 32vw;
+    font-family: 'Agbalumo', sans-serif;
     margin-top: 3vw;
     font-size: 1vw;
     color:black;
@@ -10629,6 +10645,7 @@ body{
 .cond1{
     position: relative;
     margin-left: 30vw;
+    font-family: 'Agbalumo', sans-serif;
     margin-top: 2vw;
     font-size: 3vw;
     color: black;
@@ -10636,6 +10653,7 @@ body{
 .hav{
     position: relative;
     margin-left: 33vw;
+    font-family: 'Agbalumo', sans-serif;
     margin-top: 2vw;
     font-size: 1vw;
     color: black;
@@ -10644,6 +10662,7 @@ body{
     position: relative;
     margin-left: 33vw;
     margin-top: 2vw;
+    font-family: 'Agbalumo', sans-serif;
     font-size: 1vw;
     color: black;
 }
@@ -10652,12 +10671,14 @@ body{
     margin-left: 30vw;
     margin-top: 2vw;
     font-size: 3vw;
+    font-family: 'Agbalumo', sans-serif;
     color: black;
 }
 .much{
     position: relative;
     margin-left: 33vw;
     margin-top: 2vw;
+    font-family: 'Agbalumo', sans-serif;
     font-size: 1vw;
     color: black;
 }
@@ -10665,6 +10686,7 @@ body{
     position: relative;
     margin-left: 32vw;
     margin-top: 2vw;
+    font-family: 'Agbalumo', sans-serif;
     font-size: 1vw;
     color: black;
 }
@@ -10672,262 +10694,298 @@ body{
     position: relative;
     margin-left: 53vw;
     top:-2vw;
+    font-family: 'Agbalumo', sans-serif;
 }
 .am1n{
     position: relative;
     border: 1px solid black;
     border-radius: 1vw;
-    width: 21vw;
-    height: 6vw;
+    width: 17vw;
+    height: 10vh;
     background-color:antiquewhite;
     margin-top: 1vw;
     margin-left: 2vw;
 }
-   .am2{
+   .am2n{
     position: absolute;
     z-index: 3;
-    margin-top: -5vw;
+    width: 2.6vw;
+    margin-top: -4vw;
     margin-left: 4vw;
 }
-    .am3{
+    .am3n{
     position: absolute;
     z-index: 3;
-    margin-top: -4vw;
-    margin-left: 10vw;
+    margin-top: -3.5vw;
+    font-family: 'Agbalumo', sans-serif;
+    margin-left: 8vw;
 }
-.pa1{
+.pa1j{
     position: relative;
     margin-top: 4vw;
     margin-left: 3vw;
     font-size: 2vw;
+    font-family: 'Agbalumo', sans-serif;
 }
-.ct12{
+.ct12i{
     margin-top: -1vw;
      margin-left: 5vw;
     font-size: 2vw;
+    font-family: 'Agbalumo', sans-serif;
 }
-    .fo12{
+    .fo12i{
     margin-left: 4vw;
     margin-top: 2vw;
     color: black;
+    font-family: 'Agbalumo', sans-serif;
 }
-    .l12{
+    .l12i{
      margin-left: 4vw;
      margin-top: 1vw;
      color: black;
+     font-family: 'Agbalumo', sans-serif;
 }
-    .t12{
+    .t12i{
     margin-left: 4vw;
     color: black;
+    font-family: 'Agbalumo', sans-serif;
 }
-    .ran12{
+    .ran12i{
     margin-left: 3vw;
     color: black;
+    font-family: 'Agbalumo', sans-serif;
 }
-.ubs1{
+.ubs1r{
      font-size: 2vw;
      margin-left: 24vw;
      margin-top: -12vw;
+     font-family: 'Agbalumo', sans-serif;
 }
-   .mail12{
+   .mail12r{
     position: absolute;
     margin-top: 2vw;
     margin-left: 28vw;
+    font-family: 'Agbalumo', sans-serif;
 }
-    .mailbox12{
+    .mailbox12r{
      position: absolute;
      margin-top: -1vw;
      margin-left:33vw;
-}
-    .mit12{
+     width: 10vw;
+     height: 4vh;
+     border-radius: 0.5vw;
+    }
+    .mit12r{
     position: absolute;
     margin-top: 2vw;
     margin-left:35vw;
     border: 1px solid;
     width: 8vw;
     text-align: center;
+    font-family: 'Agbalumo', sans-serif;
     border-radius: 2vw;
-    background-color: blueviolet;
+    background-color:green;
     color: white;
 }
-.enu12{
+.enu12q{
     position: relative;
     font-size: 2vw;
     margin-left: 60vw;
-     margin-top: -8vw;
+     margin-top: -7vw;
      color: grey;
+     font-family: 'Agbalumo', sans-serif;
 }
-    .nd12{
+    .nd12q{
     position: relative;
-    margin-left: 60vw;
+    margin-left: 61vw;
     color: black;
     font-size: 1vw;
+    font-family: 'Agbalumo', sans-serif;
 }
-   .nd12:hover{
+   .nd12q:hover{
     text-decoration: none;
     color: brown;
 }
-   .ar12{
+   .ar12q{
     position: relative; 
-     margin-left: 60vw;
+     margin-left: 61vw;
      font-size: 1vw;
+     font-family: 'Agbalumo', sans-serif;
     color: black; 
 }
-    .ar12:hover{
+    .ar12q:hover{
      text-decoration: none;
       color: brown;
 }
-    .bo12{
+    .bo12q{
     position: relative;
-    margin-left: 60vw;
+    margin-left: 61vw;
+    font-family: 'Agbalumo', sans-serif;
     font-size: 1vw;
     color: black;
 }
-    .bo12:hover{
+    .bo12q:hover{
      text-decoration: none;
      color: brown;
 }
-    .ac12{
+    .ac12q{
     position: relative;
-    margin-left: 60vw;
+    margin-left: 61vw;
+    font-family: 'Agbalumo', sans-serif;
     font-size: 1vw;
     color: black;
 }
-    .ac12:hover{
+    .ac12q:hover{
     text-decoration: none;
     color: brown;
 }
-    .cess12{
+    .cess12q{
     position: relative;
-    top: 2vw;
+    top: 1.5vw;
     right: 4vw;
+    font-family: 'Agbalumo', sans-serif;
     color:black;
 }
-    .cess12:hover{
+    .cess12q:hover{
      text-decoration: none;
      color: brown;
 }
-    .erm12{
+    .erm12q{
      position: relative;
      right: 10vw;
-     top: 4vw;
+     top:3vw;
+     font-family: 'Agbalumo', sans-serif;
      color: black;
 }
-    .erm12:hover{
+    .erm12q:hover{
     text-decoration: none;
     color: brown;
 }
-    .olicy12{
+    .olicy12q{
      position: relative;
-     top: 6vw;
-     right: 17vw;
+     top: 4.5vw;
+     right: 17.8vw;
+     font-family: 'Agbalumo', sans-serif;
     color: black;
 }
-    .olicy12:hover{
+    .olicy12q:hover{
     text-decoration: none;
     color: brown;
 }
-    .hip12{
+    .hip12q{
     position: relative;
-    top: 8vw;
-    right: 23vw;
+    top: 6vw;
+    right: 23.8vw;
+    font-family: 'Agbalumo', sans-serif;
     color: black;
 }
-    .hip12:hover{
+    .hip12q:hover{
      text-decoration: none;
      color: brown;
 }
-    .efund12{
+    .efund12q{
     position: relative;
-    top: 10vw;
-    right: 29vw;
+    top: 7.5vw;
+    right: 29.8vw;
+    font-family: 'Agbalumo', sans-serif;
     color: black;
 }
-    .efund12:hover{
+    .efund12q:hover{
     text-decoration: none;
     color: brown;
 }
-.social12{
+.social12y{
     margin-left: 72vw;
     margin-top: -9vw;
     font-size: 2vw;
+    font-family: 'Agbalumo', sans-serif;
     color: grey;
 }
-    .discord12{
-    margin-left: 74vw;
+    .discord12y{
+    margin-left: 76vw;
     margin-top: 2vw;
+    font-family: 'Agbalumo', sans-serif;
     color: black;
 }
-    .discord12:hover{
+    .discord12y:hover{
     text-decoration: none;
     color: brown;
 }
-    .tch12{
+    .tch12y{
     position: relative;
-    top: 2vw;
+    top: 1.5vw;
     right: 3vw;
+    font-family: 'Agbalumo', sans-serif;
     color:black;
 }
-   .tch12:hover{
+   .tch12y:hover{
     text-decoration: none;
     color: brown;
 }
-    .face12{
+    .face12y{
     position: relative;
-    top: 4vw;
+    top: 3vw;
+    font-family: 'Agbalumo', sans-serif;
     right: 6vw;
     color: black;
 }
-     .face12:hover{
+     .face12y:hover{
      text-decoration: none;
     color: brown;
 }
-    .you12{
+    .you12y{
     position: relative;
-    top: 6vw;
+    top: 4.5vw;
+    font-family: 'Agbalumo', sans-serif;
     right: 10vw;
     color: black;
 }
-     .you12:hover{
+     .you12y:hover{
     text-decoration: none;
      color: brown;
 }
-    .twit12{
+    .twit12y{
     position: relative;
-    top: 8vw;
-    right: 13vw;
+    top: 6vw;
+    font-family: 'Agbalumo', sans-serif;
+    right: 13.6vw;
     color: black;
 }
-   .twit12:hover{
+   .twit12y:hover{
     text-decoration: none;
     color: brown;
 }
-    .link12{
+    .link12y{
      position: relative;
-     top: 10vw;
-     right: 16vw;
+     top: 7.5vw;
+     right: 16.8vw;
+     font-family: 'Agbalumo', sans-serif;
     color: black;
 }
-    .link12:hover{
+    .link12y:hover{
     text-decoration: none;
     color: brown;
 }
-.pe12{
+.pe12y{
     margin-top: 17vw;
     margin-left: 2vw;
+    width: 10vw;
 }
-    .go12{
+    .go12y{
     margin-left: 3vw;
     margin-top: 17vw;
+    width: 10vw;
 }
-    .pow12{
+    .pow12y{
     margin-top: 3vw;
     margin-left: 2vw;
+    font-family: 'Agbalumo', sans-serif;
 }
-    .wix12{
+    .wix12y{
     position: relative;
     margin-left: 23vw;
     top: -2vw;
+    font-family: 'Agbalumo', sans-serif;
 }
 /*privacy*/
 @media screen and (max-width:600px){
@@ -11001,14 +11059,14 @@ body{
     margin-top: 5vw;
     margin-left: 2vw;
 }
-   .gam2{
+   .gam2n{
     position: absolute;
     z-index: 3;
     width: 8vw;
     margin-top: -10vw;
     margin-left: 4vw;
 }
-    .gam3{
+    .gam3n{
     position: absolute;
     z-index: 3;
     font-size: 4vw;
@@ -11106,65 +11164,65 @@ body{
     margin-top: 1vw;
     margin-left: 2vw;
 }
-   .am2{
+   .am2n{
     position: absolute;
     z-index: 3;
     width: 8vw;
     margin-top: -10vw;
     margin-left: 4vw;
 }
-    .am3{
+    .am3n{
     position: absolute;
     z-index: 3;
     font-size: 4vw;
     margin-top: -8vw;
     margin-left: 14vw;
 }
-.pa1{
+.pa1j{
     position: relative;
     margin-top: 15vw;
     margin-left: 3vw;
     font-size: 4vw;
 }
-.ct12{
+.ct12i{
     margin-top: -9vw;
      margin-left: 5vw;
     font-size: 4vw;
 }
-    .fo12{
+    .fo12i{
     margin-left: 4vw;
     margin-top: 2vw;
     color: black;
 }
-    .l12{
+    .l12i{
      margin-left: 4vw;
      margin-top: 1vw;
      color: black;
 }
-    .t12{
+    .t12i{
     margin-left: 4vw;
     color: black;
 }
-    .ran12{
+    .ran12i{
     margin-left: 3vw;
     color: black;
 }
-.ubs1{
+.ubs1r{
      font-size: 4vw;
      margin-left: 24vw;
      margin-top: 3vw;
 }
-   .mail12{
+   .mail12r{
     position: absolute;
     margin-top: 2vw;
     margin-left: 28vw;
 }
-    .mailbox12{
+    .mailbox12r{
      position: absolute;
      margin-top: -1vw;
      margin-left:33vw;
 }
-    .mit12{
+    .mit12r{
     position: absolute;
     margin-top: 2vw;
     margin-left:35vw;
@@ -11175,186 +11233,186 @@ body{
     background-color: blueviolet;
     color: white;
 }
-.enu12{
+.enu12q{
     position: relative;
     font-size: 4vw;
     margin-left: 10vw;
      margin-top: 10vw;
      color: grey;
 }
-    .nd12{
+    .nd12q{
     position: relative;
     margin-left: 10vw;
     color: black;
     font-size: 3vw;
 }
-   .nd12:hover{
+   .nd12q:hover{
     text-decoration: none;
     color: brown;
 }
-   .ar12{
+   .ar12q{
     position: relative; 
      margin-left: -10vw;
      font-size: 3vw;
      top: 3vw;
     color: black; 
 }
-    .ar12:hover{
+    .ar12q:hover{
      text-decoration: none;
       color: brown;
 }
-    .bo12{
+    .bo12q{
     position: relative;
     margin-left: -10vw;
     font-size: 3vw;
     top: 6vw;
     color: black;
 }
-    .bo12:hover{
+    .bo12q:hover{
      text-decoration: none;
      color: brown;
 }
-    .ac12{
+    .ac12q{
     position: relative;
     margin-left: -10vw;
     font-size: 3vw;
     top: 10vw;
     color: black;
 }
-    .ac12:hover{
+    .ac12q:hover{
     text-decoration: none;
     color: brown;
 }
-    .cess12{
+    .cess12q{
     position: relative;
     top: 15vw;
     right: 13vw;
     color:black;
 }
-    .cess12:hover{
+    .cess12q:hover{
      text-decoration: none;
      color: brown;
 }
-    .erm12{
+    .erm12q{
      position: relative;
      right: 34vw;
      top: 20vw;
      color: black;
 }
-    .erm12:hover{
+    .erm12q:hover{
     text-decoration: none;
     color: brown;
 }
-    .olicy12{
+    .olicy12q{
      position: relative;
      top: 25vw;
      right: 59vw;
     color: black;
 }
-    .olicy12:hover{
+    .olicy12q:hover{
     text-decoration: none;
     color: brown;
 }
-    .hip12{
+    .hip12q{
     position: relative;
     top: 25vw;
     left: 8vw;
     color: black;
 }
-    .hip12:hover{
+    .hip12q:hover{
      text-decoration: none;
      color: brown;
 }
-    .efund12{
+    .efund12q{
     position: relative;
     top: 30vw;
     left: -15vw;
     color: black;
 }
-    .efund12:hover{
+    .efund12q:hover{
     text-decoration: none;
     color: brown;
 }
-.social12{
+.social12y{
     margin-left: 50vw;
     margin-top: -9vw;
     font-size: 4vw;
     color: grey;
 }
-    .discord12{
+    .discord12y{
     margin-left: 54vw;
     margin-top: 2vw;
     color: black;
 }
-    .discord12:hover{
+    .discord12y:hover{
     text-decoration: none;
     color: brown;
 }
-    .tch12{
+    .tch12y{
     position: relative;
     top: 4vw;
     right: 13vw;
     color:black;
 }
-   .tch12:hover{
+   .tch12y:hover{
     text-decoration: none;
     color: brown;
 }
-    .face12{
+    .face12y{
     position: relative;
     top: 7vw;
     right: 24vw;
     color: black;
 }
-     .face12:hover{
+     .face12y:hover{
      text-decoration: none;
     color: brown;
 }
-    .you12{
+    .you12y{
     position: relative;
     top: -9vw;
     left: 53vw;
     color: black;
 }
-     .you12:hover{
+     .you12y:hover{
     text-decoration: none;
      color: brown;
 }
-    .twit12{
+    .twit12y{
     position: relative;
     top: -4vw;
     left: 40vw;
     color: black;
 }
-   .twit12:hover{
+   .twit12y:hover{
     text-decoration: none;
     color: brown;
 }
-    .link12{
+    .link12y{
      position: relative;
      top: -1vw;
      left: 28vw;
     color: black;
 }
-    .link12:hover{
+    .link12y:hover{
     text-decoration: none;
     color: brown;
 }
-.pe12{
+.pe12y{
     width: 20vw;
     margin-top: 29vw;
     margin-left: 4vw;
 }
-    .go12{
+    .go12y{
     width: 20vw;
     margin-left: -55vw;
     margin-top: 30vw;
 }
-    .pow12{
+    .pow12y{
     margin-top: 10vw;
     margin-left: 2vw;
 }
-    .wix12{
+    .wix12y{
     position: relative;
     margin-left: 79vw;
     top: -7vw;
@@ -11365,9 +11423,10 @@ body{
     position: relative;
     left:40vw;
     top: 3vw;
-    font-size: 20px;
+    font-size: 25px;
     text-decoration: none;
     color: black;
+    font-family: 'Agbalumo', sans-serif;
     }
     .homeu:hover{
         text-decoration:none;
@@ -11376,14 +11435,18 @@ body{
 .gamu{
     position: relative;
     left: 50vw;
+    width: 6vw;
+    font-size: 1.2vw;
+    font-family: 'Agbalumo', sans-serif;
     top: 3vw;
 }
 .careersu{
     position: relative;
-    left: 60vw;
+    left: 58vw;
     top:3vw;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 25px;
+    font-family: 'Agbalumo', sans-serif;
     color: black;
     }
     .careersu:hover{
@@ -11392,10 +11455,11 @@ body{
     }
 .aboutu{
     position: relative;
-    left: 68vw;
+    left: 65vw;
+    font-family: 'Agbalumo', sans-serif;
     top: 3vw;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 25px;
     color: black;
 }
 .aboutu:hover{
@@ -11404,10 +11468,11 @@ body{
 }
 .contactu{
     position: relative;
-    left: 75vw;
+    left: 70vw;
     top: 3vw;
+    font-family: 'Agbalumo', sans-serif;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 25px;
     color: black;
 }
 .contactu:hover{
@@ -11418,8 +11483,8 @@ body{
     position: relative;
     border: 1px solid black;
     border-radius: 1vw;
-    width: 21vw;
-    height: 6vw;
+    width: 16vw;
+    height: 10vh;
     background-color:antiquewhite;
     margin-top: 1vw;
     margin-left: 2vw;
@@ -11427,14 +11492,16 @@ body{
    .m2{
     position: absolute;
     z-index: 3;
-    margin-top: -5vw;
+    width: 2.6vw;
+    margin-top: -4vw;
     margin-left: 4vw;
 }
     .m3{
     position: absolute;
     z-index: 3;
-    margin-top: -4vw;
-    margin-left: 10vw;
+    margin-top: -3.5vw;
+    font-family: 'Agbalumo', sans-serif;
+    margin-left: 7vw;
     }
     .xx{
     position: relative;
@@ -11449,21 +11516,24 @@ body{
     .rm1{
     position: absolute;
     z-index: 3;
-    margin-top: -11vw;
+    margin-top: -12vw;
+    font-family: 'Agbalumo', sans-serif;
     margin-left: 7vw;
     font-size: 4vw;
-    color: white;
+    color:black;
 }
 .egal1{
     position: relative;
     margin-left: 35vw;
     margin-top: 2vw;
     font-size: 3vw;
+    font-family: 'Agbalumo', sans-serif;
     color: black;
 }
 .write{
     position: relative;
     margin-left: 32vw;
+    font-family: 'Agbalumo', sans-serif;
     margin-top: 3vw;
     font-size: 1vw;
     color:black;
@@ -11471,6 +11541,7 @@ body{
 .cond2{
     position: relative;
     margin-left: 30vw;
+    font-family: 'Agbalumo', sans-serif;
     margin-top: 2vw;
     font-size: 3vw;
     color: black;
@@ -11480,6 +11551,7 @@ body{
     margin-left: 32vw;
     margin-top: 3vw;
     font-size: 1vw;
+    font-family: 'Agbalumo', sans-serif;
     color:black;
 }
 .said1{
@@ -11487,12 +11559,14 @@ body{
     margin-left: 32vw;
     margin-top: 3vw;
     font-size: 1vw;
+    font-family: 'Agbalumo', sans-serif;
     color:black;
 }
 .inclu{
     position: relative;
     margin-left: 30vw;
     margin-top: 2vw;
+    font-family: 'Agbalumo', sans-serif;
     font-size: 3vw;
     color: black;
 }
@@ -11500,6 +11574,7 @@ body{
     position: relative;
     margin-left: 32vw;
     margin-top: 3vw;
+    font-family: 'Agbalumo', sans-serif;
     font-size: 1vw;
     color:black;
 }
@@ -11507,256 +11582,291 @@ body{
     position: relative;
     border: 1px solid black;
     border-radius: 1vw;
-    width: 21vw;
-    height: 6vw;
+    width: 16vw;
+    height: 10vh;
     background-color:antiquewhite;
     margin-top: 1vw;
     margin-left: 2vw;
 }
-   .am2{
+   .am2xx{
     position: absolute;
     z-index: 3;
-    margin-top: -5vw;
+    width: 2.6vw;
+    margin-top: -4vw;
     margin-left: 4vw;
 }
-    .am3{
+    .am3xx{
     position: absolute;
     z-index: 3;
-    margin-top: -4vw;
-    margin-left: 10vw;
+    margin-top: -3.5vw;
+    font-family: 'Agbalumo', sans-serif;
+    margin-left: 7vw;
 }
-.pa1{
+.pa1xx{
     position: relative;
     margin-top: 4vw;
     margin-left: 3vw;
     font-size: 2vw;
+    font-family: 'Agbalumo', sans-serif;
 }
-.ct12{
+.ct12d{
     margin-top: -1vw;
      margin-left: 5vw;
     font-size: 2vw;
+    font-family: 'Agbalumo', sans-serif;
 }
-    .fo12{
+    .fo12d{
     margin-left: 4vw;
     margin-top: 2vw;
     color: black;
+    font-family: 'Agbalumo', sans-serif;
 }
-    .l12{
+    .l12d{
      margin-left: 4vw;
      margin-top: 1vw;
      color: black;
+     font-family: 'Agbalumo', sans-serif;
 }
-    .t12{
+    .t12d{
     margin-left: 4vw;
     color: black;
+    font-family: 'Agbalumo', sans-serif;
 }
-    .ran12{
+    .ran12d{
     margin-left: 3vw;
     color: black;
+    font-family: 'Agbalumo', sans-serif;
 }
-.ubs1{
+.ubs1z{
      font-size: 2vw;
      margin-left: 24vw;
      margin-top: -12vw;
+     font-family: 'Agbalumo', sans-serif;
 }
-   .mail12{
+   .mail12z{
     position: absolute;
     margin-top: 2vw;
     margin-left: 28vw;
+    font-family: 'Agbalumo', sans-serif;
 }
-    .mailbox12{
+    .mailbox12z{
      position: absolute;
      margin-top: -1vw;
      margin-left:33vw;
+     width: 10vw;
+     height: 4vh;
+     border-radius: 0.5vw;
 }
-    .mit12{
+    .mit12z{
     position: absolute;
     margin-top: 2vw;
     margin-left:35vw;
     border: 1px solid;
     width: 8vw;
     text-align: center;
+    font-family: 'Agbalumo', sans-serif;
     border-radius: 2vw;
-    background-color: blueviolet;
+    background-color:green;
     color: white;
 }
-.enu12{
+.enu12w{
     position: relative;
     font-size: 2vw;
     margin-left: 60vw;
-     margin-top: -8vw;
+    font-family: 'Agbalumo', sans-serif;
+     margin-top: -7vw;
      color: grey;
 }
-    .nd12{
+    .nd12w{
     position: relative;
-    margin-left: 60vw;
+    margin-left: 61vw;
     color: black;
+    font-family: 'Agbalumo', sans-serif;
     font-size: 1vw;
 }
-   .nd12:hover{
+   .nd12w:hover{
     text-decoration: none;
     color: brown;
 }
-   .ar12{
+   .ar12w{
     position: relative; 
-     margin-left: 60vw;
+     margin-left: 61vw;
+     font-family: 'Agbalumo', sans-serif;
      font-size: 1vw;
     color: black; 
 }
-    .ar12:hover{
+    .ar12w:hover{
      text-decoration: none;
       color: brown;
 }
-    .bo12{
+    .bo12w{
     position: relative;
-    margin-left: 60vw;
+    margin-left: 61vw;
     font-size: 1vw;
+    font-family: 'Agbalumo', sans-serif;
     color: black;
 }
-    .bo12:hover{
+    .bo12w:hover{
      text-decoration: none;
      color: brown;
 }
-    .ac12{
+    .ac12w{
     position: relative;
-    margin-left: 60vw;
+    margin-left: 61vw;
     font-size: 1vw;
     color: black;
+    font-family: 'Agbalumo', sans-serif;
 }
-    .ac12:hover{
+    .ac12w:hover{
     text-decoration: none;
     color: brown;
 }
-    .cess12{
+    .cess12w{
     position: relative;
-    top: 2vw;
+    top: 1.5vw;
     right: 4vw;
+    font-family: 'Agbalumo', sans-serif;
     color:black;
 }
-    .cess12:hover{
+    .cess12w:hover{
      text-decoration: none;
      color: brown;
 }
-    .erm12{
+    .erm12w{
      position: relative;
      right: 10vw;
-     top: 4vw;
+     font-family: 'Agbalumo', sans-serif;
+     top: 3vw;
      color: black;
 }
-    .erm12:hover{
+    .erm12w:hover{
     text-decoration: none;
     color: brown;
 }
-    .olicy12{
+    .olicy12w{
      position: relative;
-     top: 6vw;
-     right: 17vw;
+     top: 4.5vw;
+     font-family: 'Agbalumo', sans-serif;
+     right: 17.7vw;
     color: black;
 }
-    .olicy12:hover{
+    .olicy12w:hover{
     text-decoration: none;
     color: brown;
 }
-    .hip12{
+    .hip12w{
     position: relative;
-    top: 8vw;
-    right: 23vw;
+    top: 6vw;
+    font-family: 'Agbalumo', sans-serif;
+    right: 23.7vw;
     color: black;
 }
-    .hip12:hover{
+    .hip12w:hover{
      text-decoration: none;
      color: brown;
 }
-    .efund12{
+    .efund12w{
     position: relative;
-    top: 10vw;
-    right: 29vw;
+    top: 7.5vw;
+    font-family: 'Agbalumo', sans-serif;
+    right: 29.7vw;
     color: black;
 }
-    .efund12:hover{
+    .efund12w:hover{
     text-decoration: none;
     color: brown;
 }
-.social12{
+.social12g{
     margin-left: 72vw;
     margin-top: -9vw;
     font-size: 2vw;
+    font-family: 'Agbalumo', sans-serif;
     color: grey;
 }
-    .discord12{
-    margin-left: 74vw;
+    .discord12g{
+    margin-left: 76vw;
     margin-top: 2vw;
+    font-family: 'Agbalumo', sans-serif;
     color: black;
 }
-    .discord12:hover{
+    .discord12g:hover{
     text-decoration: none;
     color: brown;
 }
-    .tch12{
+    .tch12g{
     position: relative;
-    top: 2vw;
+    top: 1.5vw;
+    font-family: 'Agbalumo', sans-serif;
     right: 3vw;
     color:black;
 }
-   .tch12:hover{
+   .tch12g:hover{
     text-decoration: none;
     color: brown;
 }
-    .face12{
+    .face12g{
     position: relative;
-    top: 4vw;
+    top: 3vw;
+    font-family: 'Agbalumo', sans-serif;
     right: 6vw;
     color: black;
 }
-     .face12:hover{
+     .face12g:hover{
      text-decoration: none;
     color: brown;
 }
-    .you12{
+    .you12g{
     position: relative;
-    top: 6vw;
+    top: 4.5vw;
+    font-family: 'Agbalumo', sans-serif;
     right: 10vw;
     color: black;
 }
-     .you12:hover{
+     .you12g:hover{
     text-decoration: none;
      color: brown;
 }
-    .twit12{
+    .twit12g{
     position: relative;
-    top: 8vw;
-    right: 13vw;
+    top: 6vw;
+    font-family: 'Agbalumo', sans-serif;
+    right: 13.7vw;
     color: black;
 }
-   .twit12:hover{
+   .twit12g:hover{
     text-decoration: none;
     color: brown;
 }
-    .link12{
+    .link12g{
      position: relative;
-     top: 10vw;
-     right: 16vw;
+     top: 7.5vw;
+     font-family: 'Agbalumo', sans-serif;
+     right: 16.8vw;
     color: black;
 }
-    .link12:hover{
+    .link12g:hover{
     text-decoration: none;
     color: brown;
 }
-.pe12{
+.pe12g{
     margin-top: 17vw;
     margin-left: 2vw;
+    width: 10vw;
 }
-    .go12{
+.go12g{
     margin-left: 3vw;
     margin-top: 17vw;
+    width: 10vw;
 }
-    .pow12{
+    .pow12g{
     margin-top: 3vw;
     margin-left: 2vw;
+    font-family: 'Agbalumo', sans-serif;
 }
-    .wix12{
+    .wix12g{
     position: relative;
     margin-left: 23vw;
+    font-family: 'Agbalumo', sans-serif;
     top: -2vw;
 }
 /*ship*/
@@ -11921,65 +12031,65 @@ body{
     margin-top: 5vw;
     margin-left: 2vw;
 }
-   .am2{
+   .am2xx{
     position: absolute;
     z-index: 3;
     width: 8vw;
     margin-top: -10vw;
     margin-left: 4vw;
 }
-    .am3{
+    .am3xx{
     position: absolute;
     z-index: 3;
     font-size: 4vw;
     margin-top: -8vw;
     margin-left: 13vw;
 }
-.pa1{
+.pa1xx{
     position: relative;
     margin-top: 15vw;
     margin-left: 3vw;
     font-size: 4vw;
 }
-.ct12{
+.ct12d{
     margin-top: -8vw;
      margin-left: 5vw;
     font-size: 4vw;
 }
-    .fo12{
+    .fo12d{
     margin-left: 4vw;
     margin-top: 2vw;
     color: black;
 }
-    .l12{
+    .l12d{
      margin-left: 4vw;
      margin-top: 1vw;
      color: black;
 }
-    .t12{
+    .t12d{
     margin-left: 4vw;
     color: black;
 }
-    .ran12{
+    .ran12d{
     margin-left: 3vw;
     color: black;
 }
-.ubs1{
+.ubs1z{
      font-size: 4vw;
      margin-left: 24vw;
      margin-top: 3vw;
 }
-   .mail12{
+   .mail12z{
     position: absolute;
     margin-top: 2vw;
     margin-left: 28vw;
 }
-    .mailbox12{
+    .mailbox12z{
      position: absolute;
      margin-top: -1vw;
      margin-left:33vw;
 }
-    .mit12{
+    .mit12z{
     position: absolute;
     margin-top: 2vw;
     margin-left:35vw;
@@ -11990,189 +12100,189 @@ body{
     background-color: blueviolet;
     color: white;
 }
-.enu12{
+.enu12w{
     position: relative;
     font-size: 4vw;
     margin-left: 10vw;
      margin-top: 10vw;
      color: grey;
 }
-    .nd12{
+    .nd12w{
     position: relative;
     margin-left: 10vw;
     top: 2vw;
     color: black;
     font-size: 3vw;
 }
-   .nd12:hover{
+   .nd12w:hover{
     text-decoration: none;
     color: brown;
 }
-   .ar12{
+   .ar12w{
     position: relative; 
      margin-left: -10vw;
      font-size: 3vw;
      top: 5vw;
     color: black; 
 }
-    .ar12:hover{
+    .ar12w:hover{
      text-decoration: none;
       color: brown;
 }
-    .bo12{
+    .bo12w{
     position: relative;
     margin-left: -10vw;
     font-size: 3vw;
     top: 8vw;
     color: black;
 }
-    .bo12:hover{
+    .bo12w:hover{
      text-decoration: none;
      color: brown;
 }
-    .ac12{
+    .ac12w{
     position: relative;
     margin-left: -10vw;
     top: 11vw;
     font-size: 3vw;
     color: black;
 }
-    .ac12:hover{
+    .ac12w:hover{
     text-decoration: none;
     color: brown;
 }
-    .cess12{
+    .cess12w{
     position: relative;
     top: 15vw;
     right: 12vw;
     color:black;
 }
-    .cess12:hover{
+    .cess12w:hover{
      text-decoration: none;
      color: brown;
 }
-    .erm12{
+    .erm12w{
      position: relative;
      right: 31vw;
      top: 20vw;
      color: black;
 }
-    .erm12:hover{
+    .erm12w:hover{
     text-decoration: none;
     color: brown;
 }
-    .olicy12{
+    .olicy12w{
      position: relative;
      top: 25vw;
      right: 59vw;
     color: black;
 }
-    .olicy12:hover{
+    .olicy12w:hover{
     text-decoration: none;
     color: brown;
 }
-    .hip12{
+    .hip12w{
     position: relative;
     top: 25vw;
     left: 8vw;
     color: black;
 }
-    .hip12:hover{
+    .hip12w:hover{
      text-decoration: none;
      color: brown;
 }
-    .efund12{
+    .efund12w{
     position: relative;
     top: 29vw;
     left: -15vw;
     color: black;
 }
-    .efund12:hover{
+    .efund12w:hover{
     text-decoration: none;
     color: brown;
 }
-.social12{
+.social12g{
     margin-left: 50vw;
     margin-top: -9vw;
     font-size: 4vw;
     color: grey;
 }
-    .discord12{
+    .discord12g{
     margin-left: 52vw;
     margin-top: 2vw;
     color: black;
 }
-    .discord12:hover{
+    .discord12g:hover{
     text-decoration: none;
     color: brown;
 }
-    .tch12{
+    .tch12g{
     position: relative;
     top: 4vw;
     right: 12vw;
     color:black;
 }
-   .tch12:hover{
+   .tch12g:hover{
     text-decoration: none;
     color: brown;
 }
-    .face12{
+    .face12g{
     position: relative;
     top: 8vw;
     right: 25vw;
     color: black;
 }
-     .face12:hover{
+     .face12g:hover{
      text-decoration: none;
     color: brown;
 }
-    .you12{
+    .you12g{
     position: relative;
     top:-7vw;
     left: 52vw;
     color: black;
 }
-     .you12:hover{
+     .you12g:hover{
     text-decoration: none;
      color: brown;
 }
-    .twit12{
+    .twit12g{
     position: relative;
     top: -3vw;
     left: 39vw;
     color: black;
 }
-   .twit12:hover{
+   .twit12g:hover{
     text-decoration: none;
     color: brown;
 }
-    .link12{
+    .link12g{
      position: relative;
      top: 2vw;
      left: 28vw;
     color: black;
 }
-    .link12:hover{
+    .link12g:hover{
     text-decoration: none;
     color: brown;
 }
-.pe12{
+.pe12g{
     position: relative;
     width: 20vw;
     margin-top: 28vw;
     margin-left: -9vw;
 }
-    .go12{
+    .go12g{
     position: relative;
     width: 20vw;
     margin-left: -50vw;
     margin-top: 29vw;
 }
-    .pow12{
+    .pow12g{
     margin-top: 10vw;
     margin-left: 2vw;
 }
-    .wix12{
+    .wix12g{
     position: relative;
     margin-left: 79vw;
     top: -7vw;
@@ -12186,8 +12296,9 @@ body{
     position: relative;
     left:40vw;
     top: 3vw;
-    font-size: 20px;
+    font-size: 25px;
     text-decoration: none;
+    font-family: 'Agbalumo', sans-serif;
     color: black;
 }
     .homev:hover{
@@ -12197,13 +12308,17 @@ body{
    .gamv{
     position: relative;
     left: 50vw;
+    font-size: 1.2vw;
+    width: 6vw;
+     font-family: 'Agbalumo', sans-serif;
     top: 3vw;
    }
    .careersv{
     position: relative;
-    left: 60vw;
+    left: 58vw;
     top:3vw;
-    font-size: 20px;
+     font-family: 'Agbalumo', sans-serif;
+    font-size: 25px;
     text-decoration: none;
     color: black;
     }
@@ -12213,9 +12328,10 @@ body{
     }
 .aboutv{
     position: relative;
-    left: 68vw;
+    left: 65vw;
     top: 3vw;
-    font-size: 20px;
+     font-family: 'Agbalumo', sans-serif;
+    font-size: 25px;
     text-decoration: none;
     color: black;
 }
@@ -12225,9 +12341,10 @@ body{
 }
 .contactv{
     position: relative;
-    left: 75vw;
+    left: 70vw;
+     font-family: 'Agbalumo', sans-serif;
     top: 3vw;
-    font-size: 20px;
+    font-size: 25px;
      text-decoration: none;
     color: black;
 }
@@ -12239,8 +12356,8 @@ body{
     position: relative;
     border: 1px solid black;
     border-radius: 1vw;
-    width: 21vw;
-    height: 6vw;
+    width: 17vw;
+    height: 10vh;
     background-color:antiquewhite;
     margin-top: 1vw;
     margin-left: 2vw;
@@ -12248,14 +12365,16 @@ body{
    .gam2{
     position: absolute;
     z-index: 3;
-    margin-top: -5vw;
+    margin-top: -4vw;
+    width: 2.6vw;
     margin-left: 4vw;
 }
     .gam3{
     position: absolute;
     z-index: 3;
-    margin-top: -4vw;
-    margin-left: 10vw;
+    margin-top: -3.5vw;
+     font-family: 'Agbalumo', sans-serif;
+    margin-left: 7vw;
     }
     .xx{
     position: relative;
@@ -12267,311 +12386,353 @@ body{
     margin-left: 2vw;
     background-color:darkslateblue;
 }
-.term1{
+.term1a{
     position: absolute;
     z-index: 3;
-    margin-top: -11vw;
+    margin-top: -12vw;
+     font-family: 'Agbalumo', sans-serif;
     margin-left: 5vw;
     font-size: 4vw;
-    color: white;
+    color: black;
 }
-.legal1{
+.legal1a{
     position: relative;
     margin-left: 35vw;
     margin-top: 2vw;
     font-size: 3vw;
+     font-family: 'Agbalumo', sans-serif;
     color: black;
 }
-.arti1{
+.arti1a{
     position: relative;
     margin-left: 32vw;
     margin-top: 3vw;
+     font-family: 'Agbalumo', sans-serif;
     font-size: 1vw;
     color:black;
 }
-.cond1{
+.cond1a{
     position: relative;
     margin-left: 30vw;
     margin-top: 2vw;
     font-size: 3vw;
+     font-family: 'Agbalumo', sans-serif;
     color: black;
 }
-.law{
+.lawa{
    position: relative;
     margin-left: 32vw;
     margin-top: 3vw;
+     font-family: 'Agbalumo', sans-serif;
     font-size: 1vw;
     color:black; 
 }
-.doc1{
+.doc1a{
     position: relative;
     margin-left: 30vw;
     margin-top: 2vw;
+     font-family: 'Agbalumo', sans-serif;
     font-size: 3vw;
     color: black;
 }
-.full{
+.fulla{
     position: relative;
     margin-left: 32vw;
     margin-top: 3vw;
+     font-family: 'Agbalumo', sans-serif;
     font-size: 1vw;
     color:black; 
 }
-.am1{
+.am1cc{
     position: relative;
     border: 1px solid black;
     border-radius: 1vw;
-    width: 21vw;
-    height: 6vw;
+    width: 17vw;
+    height: 10vh;
     background-color:antiquewhite;
     margin-top: 1vw;
     margin-left: 2vw;
 }
-   .am2{
+   .am2cc{
     position: absolute;
     z-index: 3;
-    margin-top: -5vw;
+    width: 2.5vw;
+    margin-top: -4vw;
     margin-left: 4vw;
 }
-    .am3{
+    .am3cc{
     position: absolute;
     z-index: 3;
-    margin-top: -4vw;
-    margin-left: 10vw;
+    margin-top: -3.5vw;
+     font-family: 'Agbalumo', sans-serif;
+    margin-left: 7vw;
 }
-.pa1{
+.pa1cc{
     position: relative;
     margin-top: 4vw;
     margin-left: 3vw;
     font-size: 2vw;
+     font-family: 'Agbalumo', sans-serif;
 }
-.ct12{
+.ct12pp{
     margin-top: -1vw;
      margin-left: 5vw;
     font-size: 2vw;
+     font-family: 'Agbalumo', sans-serif;
 }
-    .fo12{
+    .fo12pp{
     margin-left: 4vw;
     margin-top: 2vw;
     color: black;
+     font-family: 'Agbalumo', sans-serif;
 }
-    .l12{
+    .l12pp{
      margin-left: 4vw;
      margin-top: 1vw;
      color: black;
+      font-family: 'Agbalumo', sans-serif;
 }
-    .t12{
+    .t12pp{
     margin-left: 4vw;
     color: black;
+     font-family: 'Agbalumo', sans-serif;
 }
-    .ran12{
+    .ran12pp{
     margin-left: 3vw;
     color: black;
+     font-family: 'Agbalumo', sans-serif;
 }
-.ubs1{
+.ubs1kk{
      font-size: 2vw;
      margin-left: 24vw;
      margin-top: -12vw;
+      font-family: 'Agbalumo', sans-serif;
 }
-   .mail12{
+   .mail12kk{
     position: absolute;
     margin-top: 2vw;
     margin-left: 28vw;
+     font-family: 'Agbalumo', sans-serif;
 }
-    .mailbox12{
+    .mailbox12kk{
      position: absolute;
      margin-top: -1vw;
+     width: 10vw;
+     height: 4vh;
+     border-radius: 0.5vw;
      margin-left:33vw;
 }
-    .mit12{
+    .mit12kk{
     position: absolute;
     margin-top: 2vw;
     margin-left:35vw;
     border: 1px solid;
+     font-family: 'Agbalumo', sans-serif;
     width: 8vw;
     text-align: center;
     border-radius: 2vw;
-    background-color: blueviolet;
+    background-color: green;
     color: white;
 }
-.enu12{
+.enu12uu{
     position: relative;
     font-size: 2vw;
     margin-left: 60vw;
-     margin-top: -8vw;
+     margin-top: -7vw;
      color: grey;
+      font-family: 'Agbalumo', sans-serif;
 }
-    .nd12{
+    .nd12uu{
     position: relative;
-    margin-left: 60vw;
+    margin-left: 61vw;
+     font-family: 'Agbalumo', sans-serif;
     color: black;
     font-size: 1vw;
 }
-   .nd12:hover{
+   .nd12uu:hover{
     text-decoration: none;
     color: brown;
 }
-   .ar12{
+   .ar12uu{
     position: relative; 
-     margin-left: 60vw;
+     margin-left: 61vw;
+      font-family: 'Agbalumo', sans-serif;
      font-size: 1vw;
     color: black; 
 }
-    .ar12:hover{
+    .ar12uu:hover{
      text-decoration: none;
       color: brown;
 }
-    .bo12{
+    .bo12uu{
     position: relative;
-    margin-left: 60vw;
+    margin-left: 61vw;
+     font-family: 'Agbalumo', sans-serif;
     font-size: 1vw;
     color: black;
 }
-    .bo12:hover{
+    .bo12uu:hover{
      text-decoration: none;
      color: brown;
 }
-    .ac12{
+    .ac12uu{
     position: relative;
-    margin-left: 60vw;
+    margin-left: 61vw;
     font-size: 1vw;
+     font-family: 'Agbalumo', sans-serif;
     color: black;
 }
-    .ac12:hover{
+    .ac12uu:hover{
     text-decoration: none;
     color: brown;
 }
-    .cess12{
+    .cess12uu{
     position: relative;
-    top: 2vw;
+    top: 1.5vw;
+     font-family: 'Agbalumo', sans-serif;
     right: 4vw;
     color:black;
 }
-    .cess12:hover{
+    .cess12uu:hover{
      text-decoration: none;
      color: brown;
 }
-    .erm12{
+    .erm12uu{
      position: relative;
      right: 10vw;
-     top: 4vw;
+      font-family: 'Agbalumo', sans-serif;
+     top: 3vw;
      color: black;
 }
-    .erm12:hover{
+    .erm12uu:hover{
     text-decoration: none;
     color: brown;
 }
-    .olicy12{
+    .olicy12uu{
      position: relative;
-     top: 6vw;
-     right: 17vw;
+     top: 4.5vw;
+      font-family: 'Agbalumo', sans-serif;
+     right: 17.7vw;
     color: black;
 }
-    .olicy12:hover{
+    .olicy12uu:hover{
     text-decoration: none;
     color: brown;
 }
-    .hip12{
+    .hip12uu{
     position: relative;
-    top: 8vw;
-    right: 23vw;
+    top: 6vw;
+     font-family: 'Agbalumo', sans-serif;
+    right: 23.6vw;
     color: black;
 }
-    .hip12:hover{
+    .hip12uu:hover{
      text-decoration: none;
      color: brown;
 }
-    .efund12{
+    .efund12uu{
     position: relative;
-    top: 10vw;
-    right: 29vw;
+    top: 7.5vw;
+     font-family: 'Agbalumo', sans-serif;
+    right: 29.7vw;
     color: black;
 }
-    .efund12:hover{
+    .efund12uu:hover{
     text-decoration: none;
     color: brown;
 }
-.social12{
+.social12ee{
     margin-left: 72vw;
     margin-top: -9vw;
+     font-family: 'Agbalumo', sans-serif;
     font-size: 2vw;
     color: grey;
 }
-    .discord12{
-    margin-left: 74vw;
+    .discord12ee{
+    margin-left: 76vw;
     margin-top: 2vw;
+     font-family: 'Agbalumo', sans-serif;
     color: black;
 }
-    .discord12:hover{
+    .discord12ee:hover{
     text-decoration: none;
     color: brown;
 }
-    .tch12{
+    .tch12ee{
     position: relative;
-    top: 2vw;
+    top: 1.5vw;
+     font-family: 'Agbalumo', sans-serif;
     right: 3vw;
     color:black;
 }
-   .tch12:hover{
+   .tch12ee:hover{
     text-decoration: none;
     color: brown;
 }
-    .face12{
+    .face12ee{
     position: relative;
-    top: 4vw;
+    top: 3vw;
+     font-family: 'Agbalumo', sans-serif;
     right: 6vw;
     color: black;
 }
-     .face12:hover{
+     .face12ee:hover{
      text-decoration: none;
     color: brown;
 }
-    .you12{
+    .you12ee{
     position: relative;
-    top: 6vw;
+    top: 4.5vw;
+     font-family: 'Agbalumo', sans-serif;
     right: 10vw;
     color: black;
 }
-     .you12:hover{
+     .you12ee:hover{
     text-decoration: none;
      color: brown;
 }
-    .twit12{
+    .twit12ee{
     position: relative;
-    top: 8vw;
-    right: 13vw;
+    top: 6vw;
+     font-family: 'Agbalumo', sans-serif;
+    right: 13.7vw;
     color: black;
 }
-   .twit12:hover{
+   .twit12ee:hover{
     text-decoration: none;
     color: brown;
 }
-    .link12{
+    .link12ee{
      position: relative;
-     top: 10vw;
-     right: 16vw;
+     top: 7.5vw;
+      font-family: 'Agbalumo', sans-serif;
+     right: 16.9vw;
     color: black;
 }
-    .link12:hover{
+    .link12ee:hover{
     text-decoration: none;
     color: brown;
 }
-.pe12{
+.pe12ee{
     margin-top: 17vw;
     margin-left: 2vw;
+    width: 10vw;
 }
-    .go12{
+    .go12ee{
     margin-left: 3vw;
     margin-top: 17vw;
+    width: 10vw;
 }
-    .pow12{
+    .pow12ee{
     margin-top: 3vw;
     margin-left: 2vw;
+     font-family: 'Agbalumo', sans-serif;
 }
-    .wix12{
+    .wix12ee{
     position: relative;
     margin-left: 23vw;
     top: -2vw;
+     font-family: 'Agbalumo', sans-serif;
 }
 /*refund*/
 @media screen and (max-width:600px){
@@ -12667,7 +12828,7 @@ body{
     margin-left: 2vw;
     background-color:darkslateblue;
 }
-.term1{
+.term1a{
     position: absolute;
     z-index: 3;
     margin-top: -20vw;
@@ -12675,49 +12836,49 @@ body{
     font-size: 6vw;
     color: white;
 }
-.legal1{
+.legal1a{
     position: relative;
     margin-left: 30vw;
     margin-top: 2vw;
     font-size: 5vw;
     color: black;
 }
-.arti1{
+.arti1a{
     position: relative;
     margin-left: 10vw;
     margin-top: 3vw;
     font-size: 2vw;
     color:black;
 }
-.cond1{
+.cond1a{
     position: relative;
     margin-left: 20vw;
     margin-top: 2vw;
     font-size: 5vw;
     color: black;
 }
-.law{
+.lawa{
    position: relative;
     margin-left: 10vw;
     margin-top: 3vw;
     font-size: 2vw;
     color:black; 
 }
-.doc1{
+.doc1a{
     position: relative;
     margin-left: 20vw;
     margin-top: 2vw;
     font-size: 5vw;
     color: black;
 }
-.full{
+.fulla{
     position: relative;
     margin-left: 10vw;
     margin-top: 3vw;
     font-size: 2vw;
     color:black; 
 }
-.am1{
+.am1cc{
     position: relative;
     border: 1px solid black;
     border-radius: 1vw;
@@ -12727,66 +12888,66 @@ body{
     margin-top: 3vw;
     margin-left: 2vw;
 }
-   .am2{
+   .am2cc{
     position: absolute;
     z-index: 3;
     width: 8vw;
     margin-top: -10vw;
     margin-left: 4vw;
 }
-    .am3{
+    .am3cc{
     position: absolute;
     z-index: 3;
     font-size: 4vw;
     margin-top: -8vw;
     margin-left: 13vw;
 }
-.pa1{
+.pa1cc{
     position: relative;
     margin-top: 12vw;
     margin-left: 3vw;
     font-size: 4vw;
 }
-.ct12{
+.ct12pp{
     position: relative;
     margin-top: -8vw;
      margin-left: 5vw;
     font-size: 4vw;
 }
-    .fo12{
+    .fo12pp{
     margin-left: 4vw;
     margin-top: 2vw;
     color: black;
 }
-    .l12{
+    .l12pp{
      margin-left: 4vw;
      margin-top: 1vw;
      color: black;
 }
-    .t12{
+    .t12pp{
     margin-left: 4vw;
     color: black;
 }
-    .ran12{
+    .ran12pp{
     margin-left: 3vw;
     color: black;
 }
-.ubs1{
+.ubs1kk{
      font-size: 4vw;
      margin-left: 24vw;
      margin-top: 5vw;
 }
-   .mail12{
+   .mail12kk{
     position: absolute;
     margin-top: 2vw;
     margin-left: 28vw;
 }
-    .mailbox12{
+    .mailbox12kk{
      position: absolute;
      margin-top: -1vw;
      margin-left:33vw;
 }
-    .mit12{
+    .mit12kk{
     position: absolute;
     margin-top: 2vw;
     margin-left:35vw;
@@ -12797,188 +12958,188 @@ body{
     background-color: blueviolet;
     color: white;
 }
-.enu12{
+.enu12uu{
     position: relative;
     font-size: 4vw;
     margin-left: 10vw;
      margin-top: 10vw;
      color: grey;
 }
-    .nd12{
+    .nd12uu{
     position: relative;
     margin-left: 10vw;
     color: black;
     font-size: 3vw;
 }
-   .nd12:hover{
+   .nd12uu:hover{
     text-decoration: none;
     color: brown;
 }
-   .ar12{
+   .ar12uu{
     position: relative; 
      margin-left: -10vw;
      font-size: 3vw;
      top: 4vw;
     color: black; 
 }
-    .ar12:hover{
+    .ar12uu:hover{
      text-decoration: none;
       color: brown;
 }
-    .bo12{
+    .bo12uu{
     position: relative;
     margin-left: -10vw;
     font-size: 3vw;
     top: 8vw;
     color: black;
 }
-    .bo12:hover{
+    .bo12uu:hover{
      text-decoration: none;
      color: brown;
 }
-    .ac12{
+    .ac12uu{
     position: relative;
     margin-left: -10vw;
     font-size: 3vw;
     top: 12vw;
     color: black;
 }
-    .ac12:hover{
+    .ac12uu:hover{
     text-decoration: none;
     color: brown;
 }
-    .cess12{
+    .cess12uu{
     position: relative;
     top: 16vw;
     right: 13vw;
     color:black;
 }
-    .cess12:hover{
+    .cess12uu:hover{
      text-decoration: none;
      color: brown;
 }
-    .erm12{
+    .erm12uu{
      position: relative;
      right: 34vw;
      top: 21vw;
      color: black;
 }
-    .erm12:hover{
+    .erm12uu:hover{
     text-decoration: none;
     color: brown;
 }
-    .olicy12{
+    .olicy12uu{
      position: relative;
      top: 25vw;
      right: 62vw;
     color: black;
 }
-    .olicy12:hover{
+    .olicy12uu:hover{
     text-decoration: none;
     color: brown;
 }
-    .hip12{
+    .hip12uu{
     position: relative;
     top: 25vw;
     left: 6vw;
     color: black;
 }
-    .hip12:hover{
+    .hip12uu:hover{
      text-decoration: none;
      color: brown;
 }
-    .efund12{
+    .efund12uu{
     position: relative;
     top: 30vw;
     left: -18vw;
     color: black;
 }
-    .efund12:hover{
+    .efund12uu:hover{
     text-decoration: none;
     color: brown;
 }
-.social12{
+.social12ee{
     margin-left: 50vw;
     margin-top: -11vw;
     font-size: 4vw;
     color: grey;
 }
-    .discord12{
+    .discord12ee{
     margin-left: 52vw;
     margin-top: 2vw;
     color: black;
 }
-    .discord12:hover{
+    .discord12ee:hover{
     text-decoration: none;
     color: brown;
 }
-    .tch12{
+    .tch12ee{
     position: relative;
     top: 5vw;
     right: 12vw;
     color:black;
 }
-   .tch12:hover{
+   .tch12ee:hover{
     text-decoration: none;
     color: brown;
 }
-    .face12{
+    .face12ee{
     position: relative;
     top: 10vw;
     right: 23vw;
     color: black;
 }
-     .face12:hover{
+     .face12ee:hover{
      text-decoration: none;
     color: brown;
 }
-    .you12{
+    .you12ee{
     position: relative;
     top: -7vw;
     left: 52vw;
     color: black;
 }
-     .you12:hover{
+     .you12ee:hover{
     text-decoration: none;
      color: brown;
 }
-    .twit12{
+    .twit12ee{
     position: relative;
     top: -3vw;
     left: 40vw;
     color: black;
 }
-   .twit12:hover{
+   .twit12ee:hover{
     text-decoration: none;
     color: brown;
 }
-    .link12{
+    .link12ee{
      position: relative;
      top: 2vw;
      left:28vw;
     color: black;
 }
-    .link12:hover{
+    .link12ee:hover{
     text-decoration: none;
     color: brown;
 }
-.pe12{
+.pe12ee{
     position: relative;
     margin-top: 32vw;
     width: 20vw;
     margin-left: 2vw;
 }
-    .go12{
+    .go12ee{
     position: relative;
     margin-left: -50vw;
     width: 20vw;
     margin-top: 32vw;
 }
-    .pow12{
+    .pow12ee{
     margin-top: 10vw;
     margin-left: 2vw;
 }
-    .wix12{
+    .wix12ee{
     position: relative;
     margin-left: 79vw;
     top: -7vw;
