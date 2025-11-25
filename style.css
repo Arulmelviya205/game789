@@ -1156,7 +1156,7 @@ body{
     width: 50vw;
     height: 10vh;
     border-radius: 2vw;
-    margin-top: 59vw;
+    margin-top: 54vw;
     margin-left: 25vw;
     background-color:antiquewhite;
 }
@@ -1202,20 +1202,20 @@ body{
    margin-left: 27vw;
    border: 1px solid black;
    border-radius: 1vw;
-   margin-top: -16vw;
+   margin-top: -15vw;
 }
 .dele1{
     position: absolute;
     z-index: 3;
     margin-left: 43vw;
-    margin-top: -14vw;
+    margin-top: -15vw;
     font-size: 5vw;
 }
 .adve1{
     position: absolute;
     z-index: 3;
     margin-left: 45vw;
-    margin-top: -6vw;
+    margin-top: -7vw;
     }
    .add{
     position: relative;
@@ -1243,6 +1243,7 @@ body{
     border: 1px solid;
     border-radius: 4vw;
     width:35vw;
+    font-size: 5vw;
     text-align: center;
     background-color: blueviolet;
     color: white;
@@ -1250,7 +1251,8 @@ body{
    .our{
     position: relative;
     margin-left: 48vw;
-    margin-top: -7vw;
+    margin-top: -3vw;
+    font-size: 5vw;
 }
    .text{
     text-align: center;
@@ -1705,24 +1707,24 @@ body{
     background-color: darkblue;
     color: white;
    }
-   .uu10{
+   .uu10k{
     position: relative;
     border: 1px solid black;
     border-radius: 1vw;
     width: 40vw;
     height: 6vh;
     background-color:antiquewhite;
-    margin-top: -40vw;
+    margin-top: -30vw;
     margin-left: 4vw;
 }
-  .uu20{
+  .uu20k{
    position: absolute;
    z-index: 3;
    width: 8vw;
    margin-top: -10vw;
    margin-left: 6vw;
 }
-  .uu30{
+  .uu30k{
    position: absolute;
    z-index: 3;
    margin-top: -9vw;
@@ -1733,12 +1735,12 @@ body{
     position: relative;
     margin-top: 6vw;
     margin-left: 5vw;
-    font-size: 4vw;
+    font-size: 5vw;
 }
 .tect1{
     margin-top: -10vw;
      margin-left: 5vw;
-    font-size: 4vw;
+    font-size: 6vw;
 }
     .info1{
     margin-left: 4vw;
@@ -1759,8 +1761,9 @@ body{
     color: black;
 }
 .subs1{
-     font-size: 4vw;
-     margin-left: 24vw;
+    position:relative;
+     font-size: 6vw;
+     margin-left: 20vw;
      margin-top: 10vw;
 }
    .email1{
@@ -1771,6 +1774,9 @@ body{
     .emailbox1{
      position: absolute;
      margin-top: -8vw;
+     width: 30vw;
+     height: 4vh;
+     border-radius: 1vw;
      margin-left:43vw;
 }
     .submit1{
@@ -1885,14 +1891,15 @@ body{
     color: brown;
 }
 .social1{
+    position: relative;
     margin-left: 60vw;
-    margin-top: -17vw;
+    top:3vw;
     font-size: 4vw;
     color: grey;
 }
     .discord1{
+    position: relative;
     margin-left: 63vw;
-    margin-top: 2vw;
     color: black;
 }
     .discord1:hover{
@@ -2759,7 +2766,7 @@ body{
     .img1{
     position: absolute;
     z-index: 3;
-    width: 10vw;
+    width: 8vw;
      margin-top: -12vw;
      margin-left: 4vw;
 }
@@ -2767,7 +2774,7 @@ body{
     position: absolute;
     z-index: 3;
     margin-top: -10vw;
-    margin-left: 15vw;
+    margin-left: 14vw;
     font-size: 4vw;
 }
 .img4{
@@ -3053,9 +3060,9 @@ body{
 .bb5{
     position: relative;
     margin-top: 580vw;
-    margin-left: 10vw;
+    margin-left: 5vw;
     color: darkslateblue;
-    font-size: 4vw;
+    font-size: 5vw;
 }
     .now{
     position: relative;
@@ -3063,7 +3070,7 @@ body{
     border: 1px solid black;
     border-radius: 5vw;
     width: 30vw;
-    height:5vw;
+    height:5vh;
     margin-left: 30vw;
     margin-top: 5vw;
     background-color: blueviolet;
@@ -3075,7 +3082,7 @@ body{
     position: absolute;
     z-index: 3;
     margin-left: 35vw;
-    margin-top: -5vw;
+    margin-top: -8vw;
     color: white;
     font-size: 4vw;
 }
@@ -3096,27 +3103,27 @@ body{
     .img10{
     position: absolute;
     z-index: 3;
-    width: 10vw;
-    margin-top: -13vw;
+    width: 8vw;
+    margin-top: -12vw;
     margin-left: 6vw;
 }
     .mes2{
     position: absolute;
     z-index: 3;
     font-size: 4vw;
-    margin-top: -9vw;
-    margin-left: 18vw;
+    margin-top: -9.8vw;
+    margin-left: 17vw;
 }
     .pa{
     position: relative;
     margin-top: 10vw;
     margin-left: 5vw;
-    font-size: 4vw;
+    font-size: 5vw;
 }
 .tect{
     margin-top: -8vw;
     margin-left: 5vw;
-    font-size: 4vw;
+    font-size: 5vw;
 }
     .info{
     margin-left: 4vw;
@@ -3137,7 +3144,7 @@ body{
     color: black;
 }
  .subs{
-    font-size: 4vw;
+    font-size: 5vw;
     margin-left: 24vw;
     margin-top: 3vw;
 }
@@ -3149,6 +3156,9 @@ body{
     .emailbox{
     position: absolute;
     margin-top: -103vw;
+    width: 30vw;
+    height: 3vh;
+    border-radius: 1vw;
     margin-left:40vw;
 }
     .submit{
@@ -3811,7 +3821,7 @@ body{
     .subs2{
     font-size: 2vw;
     margin-left: 24vw;
-      font-family: 'Agbalumo', sans-serif;
+    font-family: 'Agbalumo', sans-serif;
     margin-top: -12vw;
 }
     .email2{
@@ -3940,7 +3950,7 @@ body{
     position: relative;
     top: 7.5vw;
     right: 30vw;
-      font-family: 'Agbalumo', sans-serif;
+    font-family: 'Agbalumo', sans-serif;
     color: black;
 }
     .refund2:hover{
@@ -4478,6 +4488,9 @@ body{
     .emailbox2{
     position: absolute;
     margin-top: -118vw;
+    width: 30vw;
+    height: 4vh;
+    border-radius: 1vw;
     margin-left:45vw;
 }
     .submit2{
@@ -5082,7 +5095,7 @@ body{
     color: grey;
 }
     .discord12{
-     position: relative;
+    position: relative;
     margin-left: 75vw;
     margin-top: 2vw;
     color: black;
@@ -5121,7 +5134,7 @@ body{
     right: 10vw;
     color: black;
 }
-     .you12:hover{
+    .you12:hover{
     text-decoration: none;
      color: brown;
 }
@@ -5137,10 +5150,10 @@ body{
     color: brown;
 }
     .link12{
-     position: relative;
-     top: 10vw;
-     font-family: 'Agbalumo', sans-serif;
-     right: 16vw;
+    position: relative;
+    top: 10vw;
+    font-family: 'Agbalumo', sans-serif;
+    right: 16vw;
     color: black;
 }
     .link12:hover{
@@ -5267,7 +5280,7 @@ body{
 .car1{
     position: absolute;
     z-index: 3;
-    font-size: 4vw;
+    font-size: 3.5vw;
     margin-top: -30vw;
     margin-left: 10vw;
     color: white;
@@ -5285,7 +5298,7 @@ body{
     z-index: 3;
     margin-top: -15vw;
     margin-left: 10vw;
-    font-size: 2vw;
+    font-size: 3.5vw;
     color: white;
 }
     .car5{
@@ -5293,8 +5306,8 @@ body{
     z-index: 3;
     margin-top: -7vw;
     margin-left: 10vw;
-    font-size: 2vw;
-    color: white;
+    font-size: 3.5vw;
+    color:white;
 }
     .one{
     position: absolute;
@@ -5345,13 +5358,12 @@ body{
     font-size: 3vw;
     color: black;
 }
-    
 .am1k{
     position: relative;
     border: 1px solid black;
     border-radius: 4vw;
     width: 45vw;
-    height: 8vh;
+    height: 6vh;
     background-color:antiquewhite;
     margin-top: 6vw;
     margin-left: 2vw;
@@ -5359,27 +5371,27 @@ body{
    .am2k{
     position: absolute;
     z-index: 3;
-    width: 10vw;
-    margin-top: -13vw;
-    margin-left: 4vw;
+    width: 8vw;
+    margin-top: -10.8vw;
+    margin-left: 4.5vw;
 }
     .am3k{
     position: absolute;
     z-index: 3;
     font-size: 4vw;
     margin-top: -9vw;
-    margin-left: 16vw;
+    margin-left: 15vw;
 }
-.pa1{
+.pa1k{
     position: relative;
     margin-top: 10vw;
     margin-left: 3vw;
-    font-size: 4vw;
+    font-size: 5vw;
 }
 .ct12{
     margin-top: -5vw;
      margin-left: 5vw;
-    font-size: 4vw;
+    font-size: 5vw;
 }
     .fo12{
     margin-left: 4vw;
@@ -5413,6 +5425,9 @@ body{
     .mailbox12{
      position: relative;
      margin-top: -10vw;
+     width: 30vw;
+     height: 4vh;
+     border-radius: 1vw;
      margin-left:30vw;
 }
     .mit12{
@@ -5426,16 +5441,16 @@ body{
     background-color: blueviolet;
     color: white;
 }
-.enu12{
+.enu12k{
     position: relative;
     font-size: 5vw;
-    margin-left: 10vw;
-     margin-top: 8vw;
+    margin-left: 12vw;
+     margin-top: 10vw;
      color: grey;
 }
     .nd12{
     position: relative;
-    margin-left: 10vw;
+    margin-left: 5vw;
     color: black;
     font-size: 3vw;
 }
@@ -5445,7 +5460,7 @@ body{
 }
    .ar12{
     position: relative; 
-     margin-left: -10vw;
+     margin-left: -15vw;
      top: 4vw;
      font-size: 3vw;
     color: black; 
@@ -5509,7 +5524,7 @@ body{
     .hip12k{
     position: relative;
     top: 25vw;
-    left: 5vw;
+    left: 2vw;
     color: black;
 }
     .hip12k:hover{
@@ -5519,14 +5534,14 @@ body{
     .efund12k{
     position: relative;
     top: 29vw;
-    right:17vw;
+    right:17.9vw;
     color: black;
 }
     .efund12k:hover{
     text-decoration: none;
     color: brown;
 }
-.social12{
+.social12k{
     position: relative;
     margin-left: 50vw;
     margin-top: -9vw;
