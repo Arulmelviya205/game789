@@ -793,13 +793,19 @@ body{
     position: absolute;
     margin-top: 4vw;
     margin-left:35vw;
-    border: 1px solid;
+    border: 1px solid black;
     width: 8vw;
     text-align: center;
     border-radius: 2vw;
     font-family: 'Agbalumo', sans-serif;
     background-color:green;
     color: white;
+}
+.submit1:hover{
+    background-color:black;
+}
+.submit1:hover{
+    color:white;
 }
    .menu1{
     position: relative;
@@ -3852,6 +3858,9 @@ body{
     background-color:green;
     font-family: 'Agbalumo', sans-serif;
     color: white;
+}
+.submit2:hover{
+    background-color:#d5f4e6;
 }
     .menu2{
     position: relative;
